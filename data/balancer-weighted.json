@@ -1,0 +1,702 @@
+[
+	{
+		"reserveUsd": 37134157.11434156,
+		"amplifiedTvl": 37134157.11434156,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538361,
+		"reserves": [
+			"1816493125113304",
+			"11065334817587399908010"
+		],
+		"tokens": [
+			{
+				"address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xd1ec5e215e8148d76f4460e4097fd3d5ae0a35580002000000000000000003d3\",\"tokenDecimals\":[9,18]}",
+		"totalSupply": "282960078078905791551145"
+	},
+	{
+		"reserveUsd": 6295142.254521988,
+		"amplifiedTvl": 6295142.254521988,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538067,
+		"reserves": [
+			"750337287108911316908",
+			"1776795033280763511568010"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xc29562b045d80fd77c69bec09541f5c16fe20d9d000200000000000000000251\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "718915485927591544409074"
+	},
+	{
+		"reserveUsd": 4142513.7930598552,
+		"amplifiedTvl": 4142513.7930598552,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538494,
+		"reserves": [
+			"493758907364326136186",
+			"42799833825880545895757395"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x9232a548dd9e81bac65500b5e0d918f8ba93675c000200000000000000000423\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "8634169451863604846207085"
+	},
+	{
+		"reserveUsd": 9887592.249123,
+		"amplifiedTvl": 9887592.249123,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537934,
+		"reserves": [
+			"8252038265",
+			"2492224913338590135531557"
+		],
+		"tokens": [
+			{
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36000200000000000000000194\",\"tokenDecimals\":[8,18]}",
+		"totalSupply": "629324633371183054214259"
+	},
+	{
+		"reserveUsd": 2641847.82972816,
+		"amplifiedTvl": 2641847.82972816,
+		"swapFee": 0.0025,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537612,
+		"reserves": [
+			"5512117822",
+			"788480454174761349541"
+		],
+		"tokens": [
+			{
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xa6f548df93de924d73be7d25dc02554c6bd66db500020000000000000000000e\",\"tokenDecimals\":[8,18]}",
+		"totalSupply": "408294901370015115571"
+	},
+	{
+		"reserveUsd": 1441379.738286942,
+		"amplifiedTvl": 1441379.738286942,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538461,
+		"reserves": [
+			"171802465900288064071",
+			"23246359067073451717527838"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x8167a1117691f39e05e9131cfa88f0e3a620e96700020000000000000000038c\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "4323343464454206948476015"
+	},
+	{
+		"reserveUsd": 3345522.7227815995,
+		"amplifiedTvl": 3345522.7227815995,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537592,
+		"reserves": [
+			"5584247576",
+			"322715103894",
+			"256706956433825899834779"
+		],
+		"tokens": [
+			{
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"weight": 400000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+				"weight": 400000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xba485b556399123261a5f9c95d413b4f93107407",
+				"weight": 200000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x8eb6c82c3081bbbd45dcac5afa631aac53478b7c000100000000000000000270\",\"tokenDecimals\":[8,9,18]}",
+		"totalSupply": "1772015089180417472300"
+	},
+	{
+		"reserveUsd": 1415250.9133468363,
+		"amplifiedTvl": 1415250.9133468363,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538410,
+		"reserves": [
+			"421720228060084146222",
+			"6589158393662998595979207"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xde8c195aa41c11a0c4787372defbbddaa31306d2000200000000000000000181\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "100950108336458367587648"
+	},
+	{
+		"reserveUsd": 2730505.347544037,
+		"amplifiedTvl": 2730505.347544037,
+		"swapFee": 0.005,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538481,
+		"reserves": [
+			"325457295812632888572",
+			"1190563067358546"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x5122e01d819e58bb2e22528c0d68d310f0aa6fd7000200000000000000000163\",\"tokenDecimals\":[18,8]}",
+		"totalSupply": "2881109395595748472082096"
+	},
+	{
+		"reserveUsd": 1789872.8044635928,
+		"amplifiedTvl": 1789872.8044635928,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16510402,
+		"reserves": [
+			"2186014166396",
+			"21334042187950689013"
+		],
+		"tokens": [
+			{
+				"address": "0x961dd84059505d59f82ce4fb87d3c09bec65301d",
+				"weight": 980000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 20000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xbc5f4f9332d8415aaf31180ab4661c9141cc84e4000200000000000000000262\",\"tokenDecimals\":[8,18]}",
+		"totalSupply": "38059688821981825086233"
+	},
+	{
+		"reserveUsd": 14198337.326806316,
+		"amplifiedTvl": 14198337.326806316,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537134,
+		"reserves": [
+			"94659138228143014312190",
+			"1692343314974381297506"
+		],
+		"tokens": [
+			{
+				"address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+				"weight": 800000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xf4c0dd9b82da36c07605df83c8a416f11724d88b000200000000000000000026\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "83538117460598997156544"
+	},
+	{
+		"reserveUsd": 1207852.821073273,
+		"amplifiedTvl": 1207852.821073273,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537362,
+		"reserves": [
+			"143967677353112177754",
+			"10487332630528752566392884"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xe8cc7e765647625b95f59c15848379d10b9ab4af0002000000000000000001de\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "2216068574406279230587339"
+	},
+	{
+		"reserveUsd": 1368917.9298681053,
+		"amplifiedTvl": 1368917.9298681053,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538394,
+		"reserves": [
+			"34944567993988325512592043",
+			"163165521006955539043"
+		],
+		"tokens": [
+			{
+				"address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+				"weight": 800000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x514f35a92a13bc7093f299af5d8ebb1387e42d6b0002000000000000000000c9\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "5955267762048524022903865"
+	},
+	{
+		"reserveUsd": 2947173.3342564176,
+		"amplifiedTvl": 2947173.3342564176,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16537486,
+		"reserves": [
+			"1397362177040160807475825",
+			"351282616795067476122"
+		],
+		"tokens": [
+			{
+				"address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+				"weight": 800000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x350196326aeaa9b98f1903fb5e8fc2686f85318c000200000000000000000084\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "520002297961035950913373"
+	},
+	{
+		"reserveUsd": 2003225.004286293,
+		"amplifiedTvl": 2003225.004286293,
+		"swapFee": 0.0025,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538107,
+		"reserves": [
+			"420223294741941201496725",
+			"541151825415419853602"
+		],
+		"tokens": [
+			{
+				"address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x6a5ead5433a50472642cd268e584dafa5a394490000200000000000000000366\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "30034579335019307298509"
+	},
+	{
+		"reserveUsd": 11003462.121752962,
+		"amplifiedTvl": 11003462.121752962,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538481,
+		"reserves": [
+			"3278840883742948833523",
+			"1940087768187328647466514"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9000200000000000000000274\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "150292075204641908289619"
+	},
+	{
+		"reserveUsd": 31553887.9263716,
+		"amplifiedTvl": 31553887.9263716,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538280,
+		"reserves": [
+			"1542553731826317",
+			"15761182780405395918909524"
+		],
+		"tokens": [
+			{
+				"address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x76fcf0e8c7ff37a47a799fa2cd4c13cde0d981c90002000000000000000003d2\",\"tokenDecimals\":[9,18]}",
+		"totalSupply": "9847776985612923559652049"
+	},
+	{
+		"reserveUsd": 1061973.1743090851,
+		"amplifiedTvl": 1061973.1743090851,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538128,
+		"reserves": [
+			"10607377755316574297876946",
+			"286881763451389614154"
+		],
+		"tokens": [
+			{
+				"address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x798b112420ad6391a4129ac25ef59663a44c88bb0002000000000000000003f4\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "108120249947001605405117"
+	},
+	{
+		"reserveUsd": 2300998.987673386,
+		"amplifiedTvl": 2300998.987673386,
+		"swapFee": 0.003,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538503,
+		"reserves": [
+			"1149350143693",
+			"686762289986495079783"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x96646936b91d6b9d7d0c47c496afbf3d6ec7b6f8000200000000000000000019\",\"tokenDecimals\":[6,18]}",
+		"totalSupply": "49761423905869173140483"
+	},
+	{
+		"reserveUsd": 248401378.07779682,
+		"amplifiedTvl": 248401378.07779682,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538522,
+		"reserves": [
+			"27786114954268274107307069",
+			"29607721097505506895729"
+		],
+		"tokens": [
+			{
+				"address": "0xba100000625a3754423978a60c9317c58a424e3d",
+				"weight": 800000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x5c6ee304399dbdb9c8ef030ab642b10820db8f56000200000000000000000014\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "13829071052018897040873772"
+	},
+	{
+		"reserveUsd": 1511448.6947817036,
+		"amplifiedTvl": 1511448.6947817036,
+		"swapFee": 0.06,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16535196,
+		"reserves": [
+			"141756992304683310200088",
+			"133824844135532408661699",
+			"24915683357088718915",
+			"231498146284989342117",
+			"20287558791247161517962"
+		],
+		"tokens": [
+			{
+				"address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+				"weight": 100000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+				"weight": 63000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xae78736cd615f374d3085123a210448e74fc6393",
+				"weight": 30000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 257000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+				"weight": 550000000000000064,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xc4451498f950b8b3abd9a815cf221a8e647913880001000000000000000001ea\",\"tokenDecimals\":[18,18,18,18,18]}",
+		"totalSupply": "33665968431905102535600"
+	},
+	{
+		"reserveUsd": 2041429.0465348777,
+		"amplifiedTvl": 2041429.0465348777,
+		"swapFee": 0.01,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538388,
+		"reserves": [
+			"4006020102836552061162674",
+			"1019694828439"
+		],
+		"tokens": [
+			{
+				"address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xd590931466cdd6d488a25da1e89dd0539723800c00020000000000000000042b\",\"tokenDecimals\":[18,6]}",
+		"totalSupply": "4032498635804696267253558"
+	},
+	{
+		"reserveUsd": 16929072.404886827,
+		"amplifiedTvl": 16929072.404886827,
+		"swapFee": 0.0005,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538375,
+		"reserves": [
+			"4573224882323322568067",
+			"8428677467179135193207370"
+		],
+		"tokens": [
+			{
+				"address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+				"weight": 500000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xa13a9247ea42d743238089903570127dda72fe44",
+				"weight": 500000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x25accb7943fd73dda5e23ba6329085a3c24bfb6a000200000000000000000387\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "391992463444404921619734"
+	},
+	{
+		"reserveUsd": 1177768.2502733106,
+		"amplifiedTvl": 1177768.2502733106,
+		"swapFee": 0.0005,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538516,
+		"reserves": [
+			"470636663445878340716373",
+			"422616949351471463746"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 400000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 600000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0x0b09dea16768f0799065c475be02919503cb2a3500020000000000000000001a\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "13202658287714882718852"
+	},
+	{
+		"reserveUsd": 3548703.839743365,
+		"amplifiedTvl": 3548703.839743365,
+		"swapFee": 0.001,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538465,
+		"reserves": [
+			"422980880210180863334",
+			"69828954466730203829884277"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d00020000000000000000011a\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "12550667027766761736002778"
+	},
+	{
+		"reserveUsd": 1063020.1876569963,
+		"amplifiedTvl": 1063020.1876569963,
+		"swapFee": 0.001,
+		"exchange": "balancer",
+		"type": "balancer-weighted",
+		"timestamp": 16538348,
+		"reserves": [
+			"126704632159122282919",
+			"50294075678454296123509"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 200000000000000000,
+				"swappable": true
+			},
+			{
+				"address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+				"weight": 800000000000000000,
+				"swappable": true
+			}
+		],
+		"staticExtra": "{\"vaultAddress\":\"0xba12222222228d8ba445958a75a0704d566bf2c8\",\"poolId\":\"0xefdc9246e0c4280fb1c138e1093a95ab88959cf80002000000000000000000b9\",\"tokenDecimals\":[18,18]}",
+		"totalSupply": "28703292377519348855169"
+	}
+]

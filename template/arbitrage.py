@@ -56,6 +56,7 @@ for l in local_indices: # for each CFMM
 
 # Build variables
 
+
 # tender delta
 deltas = [cp.Variable(len(l), nonneg=True) for l in local_indices]
 
@@ -65,7 +66,7 @@ lambdas = [cp.Variable(len(l), nonneg=True) for l in local_indices]
 psi = cp.sum([A_i @ (L - D) for A_i, D, L in zip(A, deltas, lambdas)])
 
 # Objective is to maximize "total market value" of coins out
-obj = cp.Maximize(market_value @ psi) # matrix multiplication
+obj = cp.Maximize(psi[0]) # matrix multiplication
 
 # Reserves after trade
 new_reserves = [R + gamma_i*D - L for R, gamma_i, D, L in zip(reserves, fees, deltas, lambdas)]
@@ -85,7 +86,8 @@ cons = [
     new_reserves[4] >= 0,
 
     # Arbitrage constraint
-    psi >= 0
+    psi[2:] >= 0,
+    psi[1] >= -4
 ]
 
 # Set up and solve problem

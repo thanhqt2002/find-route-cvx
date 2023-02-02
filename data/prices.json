@@ -1,0 +1,1914 @@
+[
+	{
+		"address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+		"price": 0.1145184472690686,
+		"liquidity": 1667695.198553978,
+		"lpAddress": "0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d",
+		"marketPrice": 0.215248,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x888888877a18532b78d259577d00057054c50dd8",
+		"price": 7.416665338170293e-16,
+		"liquidity": 20965071755.330116,
+		"lpAddress": "0x78c54b20cc4c2db6e7a9758ae16579d866ba6ffd",
+		"marketPrice": 0.01164726,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc94f3e2ade5e92389af7e543657211ecccaff11e",
+		"price": 2.852472660096219e-7,
+		"liquidity": 9320676.314687239,
+		"lpAddress": "0x11a708ded0fe503bbbf43d2baf403120dc5e145c",
+		"marketPrice": 0.00010235,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+		"price": 5.576754436769017e-15,
+		"liquidity": 1.6478616141933765e+21,
+		"lpAddress": "0x6deb633e4441b8879aff48caa6e021e919ddbb0c",
+		"marketPrice": 5492.26,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+		"price": 86.52301965977814,
+		"liquidity": 1132012.3276422382,
+		"lpAddress": "0x4d5ef58aac27d99935e5b6b4a6778ff292059991",
+		"marketPrice": 88.01,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+		"price": 0.44422583909187346,
+		"liquidity": 1932797.3453862537,
+		"lpAddress": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
+		"marketPrice": 0.470363,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+		"price": 18.5512476191436,
+		"liquidity": 4594914.814329244,
+		"lpAddress": "0x92560c178ce069cc014138ed3c2f5221ba71f58a",
+		"marketPrice": 16.89,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+		"price": 3.4199775899438247,
+		"liquidity": 453764.4630522154,
+		"lpAddress": "0x3185626c14acb9531d19560decb9d3e5e80681b1",
+		"marketPrice": 3.31,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
+		"price": 28.057289656906097,
+		"liquidity": 961103.0863861584,
+		"lpAddress": "0xa914a9b9e03b6af84f9c6bd2e0e8d27d405695db",
+		"marketPrice": 31.31,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+		"price": 1248.8807668694897,
+		"liquidity": 127.25737321350253,
+		"lpAddress": "0x34a0216c5057bc18e5d34d4405284564efd759b2",
+		"marketPrice": 894.46,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e",
+		"price": 1.3287128236943104,
+		"liquidity": 800176.4247012377,
+		"lpAddress": "0xf063806d07fe742b031a543145fb46d1bc670fe8",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0d02755a5700414b26ff040e1de35d337df56218",
+		"price": 0.006545992121813101,
+		"liquidity": 838500.7251014593,
+		"lpAddress": "0x336ef4e633b1117dca08c1a57f4139c62c32c935",
+		"marketPrice": 0.01266197,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa5f2211b9b8170f694421f2046281775e8468044",
+		"price": 0.11709593210248263,
+		"liquidity": 754353.4709037759,
+		"lpAddress": "0x3d3f13f2529ec3c84b2940155effbf9b39a8f3ec",
+		"marketPrice": 0.384162,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7a58da7c0568557ec65cd53c0dbe5b134a022a14",
+		"price": 3.5123835959241326e-19,
+		"liquidity": 645036012.050916,
+		"lpAddress": "0xa4221eab85912bd50ac8a1bea47093a2af13cbae",
+		"marketPrice": 0.00000129,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+		"price": 82616.18330745806,
+		"liquidity": 6930489.384959839,
+		"lpAddress": "0x0463a06fbc8bf28b3f120cd1bfc59483f099d332",
+		"marketPrice": 105917,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x853d955acef822db058eb8505911ed77f175b99e",
+		"price": 0.9996381785254308,
+		"liquidity": 105684395.718102,
+		"lpAddress": "0xc63b0708e2f7e69cb8a1df0e1389a98c35a76d52",
+		"marketPrice": 1,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+		"price": 1,
+		"liquidity": 99999999999999,
+		"lpAddress": "0x6b175474e89094c44da98b954eedeac495271d0f",
+		"marketPrice": 1.001,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+		"price": 1.063128767268183,
+		"liquidity": 668921.3825066257,
+		"lpAddress": "0x31fa985bb0c282a814e7f3f0dce88b2a44197f60",
+		"marketPrice": 4.81,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xfd0205066521550d7d7ab19da8f72bb004b4c341",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.078178,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+		"price": 1.4945072803248822,
+		"liquidity": 9282259.327386811,
+		"lpAddress": "0x795065dcc9f64b5614c407a6efdc400da6221fb0",
+		"marketPrice": 1.34,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+		"price": 1.128826700392006,
+		"liquidity": 1191649.882485378,
+		"lpAddress": "0x4fda00d490c1c05ff15d7313d1cebe9c711e434b",
+		"marketPrice": 0.929684,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+		"price": 0.03814636205095491,
+		"liquidity": 4889822.391974481,
+		"lpAddress": "0x470e8de2ebaef52014a47cb5e6af86884947f08c",
+		"marketPrice": 0.03911996,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+		"price": 0.38317374028450557,
+		"liquidity": 956548.6138996953,
+		"lpAddress": "0x4dc02e1bb2ec1ce4c50c351e6e06505e7b1dce8d",
+		"marketPrice": 0.363754,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+		"price": 7.655277725159988e-7,
+		"liquidity": 14694019.243027875,
+		"lpAddress": "0x64a078926ad9f9e88016c199017aea196e3899e1",
+		"marketPrice": 7.368e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+		"price": 0.6246177862566018,
+		"liquidity": 19542005.63411051,
+		"lpAddress": "0xccb63225a7b19dcf66717e4d40c9a72b39331d61",
+		"marketPrice": 0.373868,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+		"price": 0.00001003174163099363,
+		"liquidity": 7009757.52307179,
+		"lpAddress": "0xcf6daab95c476106eca715d48de4b13287ffdeaa",
+		"marketPrice": 0.00001211,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+		"price": 79.09394410968628,
+		"liquidity": 5429041.211792007,
+		"lpAddress": "0x0ee0cb563a52ae1170ac34fbb94c50e89adde4bd",
+		"marketPrice": 77.15,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+		"price": 0.03348889250960657,
+		"liquidity": 1605614.222225672,
+		"lpAddress": "0x2caccf71bdf8fff97c06a46eca29b611b1a74b5e",
+		"marketPrice": 0.04430672,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x84fa8f52e437ac04107ec1768764b2b39287cb3e",
+		"price": 9.607124748996047e-10,
+		"liquidity": 522601.72113991826,
+		"lpAddress": "0x1f1b4836dde1859e2ede1c6155140318ef5931c2",
+		"marketPrice": 7.01434e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2bf6267c4997548d8de56087e5d48bdccb877e77",
+		"price": 3.637448433511683e-13,
+		"liquidity": 6772980771935.425,
+		"lpAddress": "0x3253c6033724e412baec672375d2c28549e67f8d",
+		"marketPrice": 0.426714,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x11e003e9ecc5a2320e8b11098acd550b928b6df2",
+		"price": 2.2240541993681515,
+		"liquidity": 4892617.371781836,
+		"lpAddress": "0x0af81cd5d9c124b4859d65697a4cd10ee223746a",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+		"price": 1.5320568096151774,
+		"liquidity": 3881316.146286976,
+		"lpAddress": "0x3854612b93b140726167cca5418b01e832515d42",
+		"marketPrice": 3.3,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+		"price": 2.0023080737726064,
+		"liquidity": 1497728.5460802705,
+		"lpAddress": "0x36e2fcccc59e5747ff63a03ea2e5c0c2c14911e7",
+		"marketPrice": 1.8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+		"price": 0.2129304661869676,
+		"liquidity": 5572.064397135266,
+		"lpAddress": "0xe2c5d82523e0e767b83d78e2bfc6fcd74d1432ef",
+		"marketPrice": 0.262304,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+		"price": 3.5208190654345115,
+		"liquidity": 2906500.208520648,
+		"lpAddress": "0xf6c4e4f339912541d3f8ed99dba64a1372af5e5b",
+		"marketPrice": 4.28,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+		"price": 5612.437688259027,
+		"liquidity": 1111640.3986312505,
+		"lpAddress": "0x32ce7e48debdccbfe0cd037cc89526e4382cb81b",
+		"marketPrice": 6245.43,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+		"price": 0.11004053145693034,
+		"liquidity": 1247593.449273393,
+		"lpAddress": "0x4a7d4be868e0b811ea804faf0d3a325c3a29a9ad",
+		"marketPrice": 0.110451,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b",
+		"price": 0.33463604778406214,
+		"liquidity": 1353654.1360609892,
+		"lpAddress": "0xdb44a4a457c87225b5ba45f27b7828a4cc03c112",
+		"marketPrice": 0.252201,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+		"price": 0.26905928242667676,
+		"liquidity": 1872467.4683059542,
+		"lpAddress": "0xb5f790a03b7559312d9e738df5056a4b4c8459f4",
+		"marketPrice": 0.244587,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+		"price": 1297.0779825077866,
+		"liquidity": 127779658.5058,
+		"lpAddress": "0x8ad599c3a0ff1de082011efddc58f1908eb6e6d8",
+		"marketPrice": 1677.95,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+		"price": 26.706844121922444,
+		"liquidity": 1044639.7047605757,
+		"lpAddress": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
+		"marketPrice": 9.29,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc18c07a18198a6340cf4d94855fe5eb6dd33b46e",
+		"price": 0.029370883365181857,
+		"liquidity": 922623.6402497081,
+		"lpAddress": "0x4fc6d57b46dc9c00e43040471b624ac8477b04df",
+		"marketPrice": 0.057766,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+		"price": 0.0000027788935215923364,
+		"liquidity": 3193536.456622749,
+		"lpAddress": "0xa5e9c917b4b821e4e0a5bbefce078ab6540d6b5e",
+		"marketPrice": 0.00000341,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+		"price": 0.000024892241921055984,
+		"liquidity": 586108.1718418871,
+		"lpAddress": "0x65b9ad105b95290bcde1ed91f2f6688232ad5782",
+		"marketPrice": 0.00009772,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+		"price": 0.05424802958040396,
+		"liquidity": 1052980.5990816664,
+		"lpAddress": "0x684b00a5773679f88598a19976fbeb25a68e9a5f",
+		"marketPrice": 0.060389,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8",
+		"price": 0.038248266207563573,
+		"liquidity": 1154049.414460912,
+		"lpAddress": "0x1e11fcab5bd387bc783f3dd03b379402ee2f9e06",
+		"marketPrice": 0.04489582,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+		"price": 3.701912329319511,
+		"liquidity": 2539717.5978607014,
+		"lpAddress": "0x582e3da39948c6339433008703211ad2c13eb2ac",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
+		"price": 1.7902112036557836,
+		"liquidity": 1261250.106415982,
+		"lpAddress": "0x9461173740d27311b176476fa27e94c681b1ea6b",
+		"marketPrice": 2.15,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+		"price": 0.0006196284757535953,
+		"liquidity": 6177382.801622954,
+		"lpAddress": "0xdb06a76733528761eda47d356647297bc35a98bd",
+		"marketPrice": 0.00113559,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xdfd5bb6ce8716822b2c9b255560194ca3509bebc",
+		"price": 7.858853563055961e-11,
+		"liquidity": 1017707.5804394454,
+		"lpAddress": "0xc7e3eca6b26714ce1616ed1c7cb02bf6a6cc18c2",
+		"marketPrice": 1.4217e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f",
+		"price": 22.090020230080235,
+		"liquidity": 2819011.4711890304,
+		"lpAddress": "0xcf15ad9be9d33384b74b94d63d06b4a9bd82f640",
+		"marketPrice": 40.98,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2",
+		"price": 8.630719168095862e-16,
+		"liquidity": 53111355158493910000,
+		"lpAddress": "0x67c9847088588cb10fbf03f355aa9de61f7bb661",
+		"marketPrice": 4779.9,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+		"price": 0.000027604069496227866,
+		"liquidity": 30439.069005223886,
+		"lpAddress": "0xc4da39e646e7f5d233b89ca0f7b75344e7ddb2cc",
+		"marketPrice": 0.01070559,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x11c49e5ca7222f89909a6ec42d81eb6b2af5ff40",
+		"price": 3.388095994723508e-7,
+		"liquidity": 304506.80940033187,
+		"lpAddress": "0xaeaa85b92469310f78acc428d0199576f95c9238",
+		"marketPrice": 0.00006323,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xba485b556399123261a5f9c95d413b4f93107407",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 2.64,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+		"price": 1132.219660309005,
+		"liquidity": 6320734.894609474,
+		"lpAddress": "0xe8c6c9227491c0a8156a0106a0204d881bb7e531",
+		"marketPrice": 674.63,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+		"price": 6.559694462008924e-7,
+		"liquidity": 2294037.1195495296,
+		"lpAddress": "0x4a08cf0a7bca217c24b9ee99c0395052f3707d68",
+		"marketPrice": 7.44431e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x970b596ea3cb9864397f799902f0a579cdc3377b",
+		"price": 3.3998892694886083e-13,
+		"liquidity": 581392654.3970991,
+		"lpAddress": "0x9926f1e42a19928bc552e2003fbc9738ea6ae586",
+		"marketPrice": 0.058139,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+		"price": 3491.7035609192044,
+		"liquidity": 3683623356.387993,
+		"lpAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+		"marketPrice": 1850.89,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+		"price": 3.708271884574513,
+		"liquidity": 3632752.722705853,
+		"lpAddress": "0x82917fb0dd65b0e5c85eea66e4f5c1ed484bc629",
+		"marketPrice": 9.39,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcc802c45b55581713cecd1eb17be9ab7fccb0844",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 1.5,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+		"price": 0.6312379621869059,
+		"liquidity": 2915159.7198846377,
+		"lpAddress": "0xb079d6be3faf5771e354586dbc47d0a3d37c34fb",
+		"marketPrice": 0.649647,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.01989572,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+		"price": 0.024393188289157194,
+		"liquidity": 1613173.9325406975,
+		"lpAddress": "0xc08ed9a9abeabcc53875787573dc32eee5e43513",
+		"marketPrice": 0.0339313,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
+		"price": 0.0010702189011565744,
+		"liquidity": 1146884.9085580048,
+		"lpAddress": "0x2d8499a4847e9aadcf42c01988806651b2f5912d",
+		"marketPrice": 1.15,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
+		"price": 1.8897887516156513e-10,
+		"liquidity": 1213294.288128296,
+		"lpAddress": "0x9c9c9843c119704aef237ee9939fc2406d708136",
+		"marketPrice": 1.73891e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+		"price": 81.90127489849222,
+		"liquidity": 2170611.6898375433,
+		"lpAddress": "0xd75ea151a61d06868e31f8988d28dfe5e9df57b4",
+		"marketPrice": 91.76,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x27af23d8db2a3fbce7d04e84f594285fb0059316",
+		"price": 3.906558294447812e-24,
+		"liquidity": 506658748189391900000,
+		"lpAddress": "0x3eb55a1cbfdefe4e6fbe72c868213456816c2bdc",
+		"marketPrice": 0.844273,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+		"price": 1.943514735169055,
+		"liquidity": 4154888.7463118536,
+		"lpAddress": "0x8c1c499b1796d7f3c2521ac37186b52de024e58c",
+		"marketPrice": 2.06,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x089a502032166e07ae83eb434c16790ca2fa4661",
+		"price": 5.3711249092739455e-27,
+		"liquidity": 1.9282449370949017e+24,
+		"lpAddress": "0x82272155e4431f462cd1099dbcacd4ea690cdc93",
+		"marketPrice": 3.17,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+		"price": 0.3012456102163534,
+		"liquidity": 853843.5268300341,
+		"lpAddress": "0x0efb424c465dbd0a626359d63412838f727f2c25",
+		"marketPrice": 0.902631,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+		"price": 0.9506048468984715,
+		"liquidity": 7392697.558697364,
+		"lpAddress": "0xefb47fcfcad4f96c83d4ca676842fb03ef20a477",
+		"marketPrice": 1.46,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa36fdbbae3c9d55a1d67ee5821d53b50b63a1ab9",
+		"price": 0.0337327298395074,
+		"liquidity": 1457914.6471819999,
+		"lpAddress": "0x2dee10627a6861e92ee8684c02e28b13fafac304",
+		"marketPrice": 0.03125892,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4",
+		"price": 2.4941963701518475,
+		"liquidity": 94325.4185795491,
+		"lpAddress": "0xfaa9e9cdde2517a97c31fc8b167c0b51566de470",
+		"marketPrice": 2.64,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+		"price": 0.0324948288315857,
+		"liquidity": 5082774.417538,
+		"lpAddress": "0x69d91b94f0aaf8e8a2586909fa77a5c2c89818d5",
+		"marketPrice": 0.03302726,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5befbb272290dd5b8521d4a938f6c4757742c430",
+		"price": 32.947794788716806,
+		"liquidity": 1727689.4592799349,
+		"lpAddress": "0xaf996125e98b5804c00ffdb4f7ff386307c99a00",
+		"marketPrice": 44.32,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+		"price": 0.000834162960619195,
+		"liquidity": 1783600.203203141,
+		"lpAddress": "0xc96f20099d96b37d7ede66ff9e4de59b9b1065b1",
+		"marketPrice": 0.00097367,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa4bad5d040d4464ec5ce130987731f2f428c9307",
+		"price": 0.5218845314610994,
+		"liquidity": 2016056.843423811,
+		"lpAddress": "0x3eb9833bbea994287a2227e3feba0d3dc5d99f05",
+		"marketPrice": 30.19,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+		"price": 0.0000019276698172647015,
+		"liquidity": 4903745.256482985,
+		"lpAddress": "0x97e1fcb93ae7267dbafad23f7b9afaa08264cfd8",
+		"marketPrice": 0.00000186,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+		"price": 2.0870950442108167e-7,
+		"liquidity": 1859901.2699507242,
+		"lpAddress": "0xb84c45174bfc6b8f3eaecbae11dee63114f5c1b2",
+		"marketPrice": 1.86567e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4cde0dd772eafe365728e6434e55e2c975df5f0f",
+		"price": 1.356071739232579e-19,
+		"liquidity": 3.513593901212378e+22,
+		"lpAddress": "0xd329d43715aa7b13f6d8aab5746fd824e7b643de",
+		"marketPrice": 0.947565,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3819f64f282bf135d62168c1e513280daf905e06",
+		"price": 0.0000037608375948,
+		"liquidity": 1994119.359032,
+		"lpAddress": "0xe859041c9c6d70177f83de991b9d757e13cea26e",
+		"marketPrice": 0.00000192,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+		"price": 0.17065294823635874,
+		"liquidity": 3179830.8824532907,
+		"lpAddress": "0x6ada49aeccf6e556bb7a35ef0119cc8ca795294a",
+		"marketPrice": 0.1927,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+		"price": 0.14486152503832658,
+		"liquidity": 1622689.161481047,
+		"lpAddress": "0xda3706c9a099077e6bc389d1baf918565212a54d",
+		"marketPrice": 0.128229,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+		"price": 0.1455237951613628,
+		"liquidity": 150933.498066,
+		"lpAddress": "0x14036bbda496e39dc3db6025fe858431c1ddadb1",
+		"marketPrice": 0.100736,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd0f57b427971ea60909a28648987141a81f8dc03",
+		"price": 4.89767785311671e-28,
+		"liquidity": 271908324784254.22,
+		"lpAddress": "0xb0f2ed6c57a45e06b6422217184f8ebe2340ddd3",
+		"marketPrice": 1.517e-12,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+		"price": 0.11293261542657274,
+		"liquidity": 95527953.18258026,
+		"lpAddress": "0x21b8065d10f73ee2e260e5b47d3344d3ced7596e",
+		"marketPrice": 0.126989,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd",
+		"price": 0.3065709898295856,
+		"liquidity": 1356761.769700089,
+		"lpAddress": "0xe1188ec51db807aa2ed4e81deefcda943d1cfdb3",
+		"marketPrice": 1.083,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+		"price": 0.7603983826402785,
+		"liquidity": 2150248.8598564384,
+		"lpAddress": "0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74",
+		"marketPrice": 0.767404,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+		"price": 0.000013554151971870842,
+		"liquidity": 613558.4068264643,
+		"lpAddress": "0xb4a0a46d3042a739ec76fd67a3f1b99cc12ac1d9",
+		"marketPrice": 0.00969923,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5f98805a4e8be255a32880fdec7f6728c6568ba0",
+		"price": 1.0276970159724363,
+		"liquidity": 7979578.209816,
+		"lpAddress": "0x4e0924d3a751be199c426d52fb1f2337fa96f736",
+		"marketPrice": 1.005,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+		"price": 0.4813885290947735,
+		"liquidity": 1744391.7643000346,
+		"lpAddress": "0x69884da24f31960f694a8fa1f30aa8e0416fbd04",
+		"marketPrice": 0.298804,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+		"price": 0.12080110791959943,
+		"liquidity": 5394480.51947381,
+		"lpAddress": "0x25647e01bd0967c1b9599fa3521939871d1d0888",
+		"marketPrice": 0.132052,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817",
+		"price": 0.10068123470850507,
+		"liquidity": 1290450.059960797,
+		"lpAddress": "0xe8cc7e765647625b95f59c15848379d10b9ab4af",
+		"marketPrice": 0.091819,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+		"price": 1.9746223199403212,
+		"liquidity": 2003435.3880049235,
+		"lpAddress": "0xcd6bcca48069f8588780dfa274960f15685aee0e",
+		"marketPrice": 1.78,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd379700999f4805ce80aa32db46a94df64561108",
+		"price": 0.01765368524153926,
+		"liquidity": 2123081.507491717,
+		"lpAddress": "0xaf21b0ec0197e63a5c6cc30c8e947eb8165c6212",
+		"marketPrice": 0.03031228,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+		"price": 0.44851520257225963,
+		"liquidity": 517897.46161921835,
+		"lpAddress": "0xfca032a9a68c5cbfaf8377775173eca59b837073",
+		"marketPrice": 0.613635,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xba100000625a3754423978a60c9317c58a424e3d",
+		"price": 5.661814499036121,
+		"liquidity": 160395490.30428734,
+		"lpAddress": "0x5c6ee304399dbdb9c8ef030ab642b10820db8f56",
+		"marketPrice": 7.21,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.00055315,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+		"price": 1.0358768065890613,
+		"liquidity": 446752.35838653403,
+		"lpAddress": "0x7fdeb46b3a0916630f36e886d675602b1007fcbb",
+		"marketPrice": 0.831293,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+		"price": 0.0002593569531189724,
+		"liquidity": 1552750.2429992328,
+		"lpAddress": "0x700fc86c46299cf2a8fd86edadae3f57014351b0",
+		"marketPrice": 0.00022698,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x965d79f1a1016b574a62986e13ca8ab04dfdd15c",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.00057851,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+		"price": 0.02933805764958257,
+		"liquidity": 2966308.5825083745,
+		"lpAddress": "0x343fd171caf4f0287ae6b87d75a8964dc44516ab",
+		"marketPrice": 0.02845897,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45",
+		"price": 105.49305458809995,
+		"liquidity": 6735.25307131507,
+		"lpAddress": "0xed01d014f32824013a8fdbccb0844b76e9e17630",
+		"marketPrice": 103.3,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0fc6c0465c9739d4a42daca22eb3b2cb0eb9937a",
+		"price": 0.5338506079487649,
+		"liquidity": 3714.716661,
+		"lpAddress": "0x6181a1b3d322008cea1b99e47ee5e48718e68a64",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5f190f9082878ca141f858c1c90b4c59fe2782c5",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.01243797,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+		"price": 3.3446180892401443,
+		"liquidity": 6903093.200567255,
+		"lpAddress": "0xb460daa847c45f1c4a41cb05bfb3b51c92e41b36",
+		"marketPrice": 3.16,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
+		"price": 0.0075249961446993445,
+		"liquidity": 2239073.6397470315,
+		"lpAddress": "0x3fb4cb7f1e2e5110adf709dd277d77381c886ea9",
+		"marketPrice": 0.00641069,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcafe001067cdef266afb7eb5a286dcfd277f3de5",
+		"price": 0.025534046741797392,
+		"liquidity": 793247.2115289357,
+		"lpAddress": "0xcb0e14e96f2cefa8550ad8e4aea344f211e5061d",
+		"marketPrice": 0.04032302,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x27c70cd1946795b66be9d954418546998b546634",
+		"price": 346.0414183795625,
+		"liquidity": 1887654.9106174097,
+		"lpAddress": "0x57654ae132413e81459ad2ae70c2570a9b89fb53",
+		"marketPrice": 407.28,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+		"price": 0.04959135841293802,
+		"liquidity": 718527.8569220685,
+		"lpAddress": "0xb8a1a865e4405281311c5bc0f90c240498472d3e",
+		"marketPrice": 0.066911,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+		"price": 1.4365659808089317,
+		"liquidity": 5898597.069654733,
+		"lpAddress": "0xc558f600b34a5f69dd2f0d06cb8a88d829b7420a",
+		"marketPrice": 2.37,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+		"price": 0.9997153160838081,
+		"liquidity": 2440491.4110515937,
+		"lpAddress": "0xbb2e5c2ff298fd96e166f90c8abacaf714df14f8",
+		"marketPrice": 1.023,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+		"price": 4.342058506385231,
+		"liquidity": 6030948.370766003,
+		"lpAddress": "0xac4b3dacb91461209ae9d41ec517c2b9cb1b7daf",
+		"marketPrice": 6.14,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xe1030b48b2033314979143766d7dc1f40ef8ce11",
+		"price": 4.140646781483947e-9,
+		"liquidity": 1089618.8657366307,
+		"lpAddress": "0x6cbcd84abcfbb411426dc21a621fe9a68b985bf4",
+		"marketPrice": 4.658e-9,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x55986c1dcbf2fa1f3402c5df256272621624821f",
+		"price": 2.5941559650155402e-33,
+		"liquidity": 50887500000.000656,
+		"lpAddress": "0xf29dc81a21d4c32781702b2b8b191de664314904",
+		"marketPrice": 1.01775e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9",
+		"price": 0.10999501242246817,
+		"liquidity": 3956254.3115013908,
+		"lpAddress": "0x6033368e4a402605294c91cf5c03d72bd96e7d8d",
+		"marketPrice": 0.164052,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
+		"price": 17.303972966630894,
+		"liquidity": 1112522.773059085,
+		"lpAddress": "0xebd54ad6c1d4b079bdc20ecf36dd29d1d76c9977",
+		"marketPrice": 24.77,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x62cc7d1790e5a9470be22ae9f14065cbfe44bf10",
+		"price": 3.4918147475818864e-14,
+		"liquidity": 2587853.601778762,
+		"lpAddress": "0x8d1742d41c2beb5b8cc15c55809058e4d460ef39",
+		"marketPrice": 3.636e-9,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8dbf9a4c99580fc7fd4024ee08f3994420035727",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.02032944,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5",
+		"price": 0.02778768404486139,
+		"liquidity": 831004.7741067372,
+		"lpAddress": "0x8167a1117691f39e05e9131cfa88f0e3a620e967",
+		"marketPrice": 0.050878,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x823556202e86763853b40e9cde725f412e294689",
+		"price": 0.05011327083082527,
+		"liquidity": 5003904.351343047,
+		"lpAddress": "0x11181bd3baf5ce2a478e98361985d42625de35d1",
+		"marketPrice": 0.04584034,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa1817b6d8d890f3943b61648992730373b71f156",
+		"price": 1.1356057039927799e-17,
+		"liquidity": 911711.8314820868,
+		"lpAddress": "0x450e653a0a125a1dc36d3901d3cce2e2287df0c2",
+		"marketPrice": 1.3e-17,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+		"price": 10.1076279580867,
+		"liquidity": 56609511.46937898,
+		"lpAddress": "0xc45d42f801105e861e86658648e3678ad7aa70f9",
+		"marketPrice": 10.19,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd58f55b2c7b64afed8d21c5e852bcccae721e376",
+		"price": 1.7525456571064878e-7,
+		"liquidity": 37417228.2367917,
+		"lpAddress": "0xa09d01187681c1c6868a93ec0991d332eedac622",
+		"marketPrice": 0.078353,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+		"price": 0.000005600553183363581,
+		"liquidity": 3296286.9968447178,
+		"lpAddress": "0x5281e311734869c64ca60ef047fd87759397efe6",
+		"marketPrice": 0.00000851,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+		"price": 0.6195524743874898,
+		"liquidity": 6049283.634265262,
+		"lpAddress": "0x55d31f68975e446a40a2d02ffa4b0e1bfb233c2f",
+		"marketPrice": 0.598279,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+		"price": 19196.944939717465,
+		"liquidity": 130067321.7081848,
+		"lpAddress": "0x99ac8ca7087fa4a2a1fb6357269965a2014abc35",
+		"marketPrice": 23964,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+		"price": 17.15928714931085,
+		"liquidity": 4082008.0132240257,
+		"lpAddress": "0xd6f3768e62ef92a9798e5a8cedd2b78907cecef9",
+		"marketPrice": 10.58,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+		"price": 1.1327242054968716,
+		"liquidity": 6814574.895143008,
+		"lpAddress": "0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38",
+		"marketPrice": 1.17,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3b604747ad1720c01ded0455728b62c0d2f100f0",
+		"price": 0.0000030915320171259444,
+		"liquidity": 996020.3586206158,
+		"lpAddress": "0xdf4f3749bb4e96bf91a67c7e873d9c04198d924a",
+		"marketPrice": 0.00000314,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+		"price": 0.07975385612605242,
+		"liquidity": 1710698.4683625277,
+		"lpAddress": "0x82dbc2673e9640343d263a3c55de49021ad39ae2",
+		"marketPrice": 0.061028,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f",
+		"price": 1.611902020922099e-8,
+		"liquidity": 99362.38435844642,
+		"lpAddress": "0xb835752feb00c278484c464b697e03b03c53e11b",
+		"marketPrice": 3.9481e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6dea81c8171d0ba574754ef6f8b412f2ed88c54d",
+		"price": 0.7292067330632009,
+		"liquidity": 3552404.645132669,
+		"lpAddress": "0xc2563cf31c89d043ffab8e7f77fbfbb58fc2a487",
+		"marketPrice": 0.72094,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xae78736cd615f374d3085123a210448e74fc6393",
+		"price": 1351.8765427772541,
+		"liquidity": 1746083.9604477687,
+		"lpAddress": "0xa4e0faa58465a2d369aa21b3e42d43374c6f9613",
+		"marketPrice": 1790.46,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
+		"price": 0.0013403893173335173,
+		"liquidity": 1221135.6194588172,
+		"lpAddress": "0x0be902716176d66364f1c2ecf25829a6d95c5bee",
+		"marketPrice": 0.00131881,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+		"price": 9.552676309329545e-19,
+		"liquidity": 1.3643163144834683e+23,
+		"lpAddress": "0x481ddaf90c59d91f3e480e6793122e62612ca5a9",
+		"marketPrice": 0.802409,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+		"price": 6.421542905410515,
+		"liquidity": 18624286.045771793,
+		"lpAddress": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+		"marketPrice": 7.04,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9c1cb740f3b631ed53600058ae5b2f83e15d9fbf",
+		"price": 0.0010967297010383748,
+		"liquidity": 540.6841761382167,
+		"lpAddress": "0x8e9d37a4a6180369388776c02ef5ba45ab9d5012",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x5cf9242493be1411b93d064ca2e468961bbb5924",
+		"price": 132.35493755007624,
+		"liquidity": 97.81918856489638,
+		"lpAddress": "0xe514259deb1fb75bc97fc8df6d8f472c665b9c4d",
+		"marketPrice": 8235.59,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+		"price": 6.141174888310146e-17,
+		"liquidity": 2821439.2718861876,
+		"lpAddress": "0x3016a43b482d0480460f6625115bd372fe90c6bf",
+		"marketPrice": 8.6e-17,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+		"price": 2.027168157755892e-7,
+		"liquidity": 461.9995425268676,
+		"lpAddress": "0xc2fe79c010401784d2896f60350bc6150487b43f",
+		"marketPrice": 0.00978992,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+		"price": 0.00000669995717841156,
+		"liquidity": 2024109.7572352665,
+		"lpAddress": "0xca7c2771d248dcbe09eabe0ce57a62e18da178c0",
+		"marketPrice": 0.00002605,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5",
+		"price": 0.4157936522336758,
+		"liquidity": 120621.0318072892,
+		"lpAddress": "0x3ba2f9c0dcba4bf9599a698960204187286666b4",
+		"marketPrice": 1.72,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+		"price": 1.0406980233284235,
+		"liquidity": 2520737.5393538726,
+		"lpAddress": "0xc5be99a02c6857f9eac67bbce58df5572498f40c",
+		"marketPrice": 1.11,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x610c67be018a5c5bdc70acd8dc19688a11421073",
+		"price": 27.216746976473704,
+		"liquidity": 1028361.1952319078,
+		"lpAddress": "0xcff0ac508c5c7d24f237de246141821a689ceaf2",
+		"marketPrice": 102.23,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+		"price": 0.016749183950676066,
+		"liquidity": 843767.3971270933,
+		"lpAddress": "0xdfcf744c8ae896e8631ba9b9dc717546646f6708",
+		"marketPrice": 0.017847,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa13a9247ea42d743238089903570127dda72fe44",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 1.016,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
+		"price": 0.007069505528046895,
+		"liquidity": 396328.02505500684,
+		"lpAddress": "0x07840b4825b74cc6ce264bf2743dee647194f49b",
+		"marketPrice": 0.01772757,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+		"price": 1.0871449316263244,
+		"liquidity": 10828448.276235439,
+		"lpAddress": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31",
+		"marketPrice": 1.14,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+		"price": 0.0775824771590564,
+		"liquidity": 2255690.6988382125,
+		"lpAddress": "0x67cea36eeb36ace126a3ca6e21405258130cf33c",
+		"marketPrice": 0.082248,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7dac25b1a665e1c70f25f1fc37d88c99274984ed",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.00013015,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x389999216860ab8e0175387a0c90e5c52522c945",
+		"price": 7.769725730361888e-10,
+		"liquidity": 1632093.3947031614,
+		"lpAddress": "0x854373387e41371ac6e307a1f29603c6fa10d872",
+		"marketPrice": 8.31985e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+		"price": 1.29624084562433e-7,
+		"liquidity": 869120.01716397,
+		"lpAddress": "0xda3a20aad0c34fa742bd9813d45bbf67c787ae0b",
+		"marketPrice": 2.05572e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x53c8395465a84955c95159814461466053dedede",
+		"price": 0.10779383749668721,
+		"liquidity": 4164666.6634676317,
+		"lpAddress": "0x873056a02255872514f05249d93228d788fe4fb4",
+		"marketPrice": 0.110306,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+		"price": 0.11319424183477832,
+		"liquidity": 1188133.0593910497,
+		"lpAddress": "0xfe903a12359496b932e24c5e9b78f1b9060a6342",
+		"marketPrice": 0.090964,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf5832512cfda8083e5b2dd0aa7c1b9265c03ba1f",
+		"price": 715.4365581215832,
+		"liquidity": 242.59998924192695,
+		"lpAddress": "0xb27dd57dca16d77c4fbc3f051728910db9f41610",
+		"marketPrice": 41489,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+		"price": 0.5342266735323756,
+		"liquidity": 1882740.8879583348,
+		"lpAddress": "0xa2f6a219a51b4682e34a13a94c160d6c79cdca35",
+		"marketPrice": 0.84403,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+		"price": 52.847257662030856,
+		"liquidity": 43453681.22324164,
+		"lpAddress": "0xefaa1604e82e1b3af8430b90192c1b9e8197e377",
+		"marketPrice": 57.52,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x30dcba0405004cf124045793e1933c798af9e66a",
+		"price": 0.053608883150235986,
+		"liquidity": 2127511.918528177,
+		"lpAddress": "0x153f2044feace1eb377c6e1cf644d12677bd86fd",
+		"marketPrice": 0.03623872,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xbba477999ed5b067fddbb1fe1797ba026d89eb23",
+		"price": 7.310955052147088e-14,
+		"liquidity": 205414246163.06253,
+		"lpAddress": "0xa7bf31c24fac1c5b7014a2ba19399f9bced85bc2",
+		"marketPrice": 0.521551,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+		"price": 2.519930389839467e-7,
+		"liquidity": 9523934.437200729,
+		"lpAddress": "0x7b73644935b8e68019ac6356c40661e1bc315860",
+		"marketPrice": 3.7427e-7,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+		"price": 1294.1929516681923,
+		"liquidity": 1515092.432795446,
+		"lpAddress": "0x4028daac072e492d34a3afdbef0ba7e35d8b55c4",
+		"marketPrice": 1671.38,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+		"price": 11.167083520106411,
+		"liquidity": 1298285.2294829856,
+		"lpAddress": "0x29f07e631a2f990e1f6117c6285a44e746b1f090",
+		"marketPrice": 12.19,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+		"price": 0.9542909226137319,
+		"liquidity": 900576.6855399532,
+		"lpAddress": "0x350196326aeaa9b98f1903fb5e8fc2686f85318c",
+		"marketPrice": 1.68,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+		"price": 5.632967281499349e-8,
+		"liquidity": 39910.10008804871,
+		"lpAddress": "0x92935f844447abb37b38c4ffcf48d6c4fffd9232",
+		"marketPrice": 4.6791e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
+		"price": 0.015104153058625933,
+		"liquidity": 25766.959702868997,
+		"lpAddress": "0x0d80f8a039cc61b659ff299bb132de271c757325",
+		"marketPrice": 0.0172378,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30",
+		"price": 1.696989920976345e-10,
+		"liquidity": 16316084.216791632,
+		"lpAddress": "0x615190214b61393aceaaac3fc081cab5bc431aab",
+		"marketPrice": 0.04037117,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+		"price": 0.185287484484535,
+		"liquidity": 1723128.5446774205,
+		"lpAddress": "0xc730ef0f4973da9cc0ab8ab291890d3e77f58f79",
+		"marketPrice": 0.292455,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+		"price": 1,
+		"liquidity": 99999999999999,
+		"lpAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+		"marketPrice": 1.001,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+		"price": 9.450145629043373e-21,
+		"liquidity": 3.670324493975763e+21,
+		"lpAddress": "0x8175362afbeee32afb22d05adc0bbd08de32f5ae",
+		"marketPrice": 0.00723847,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+		"price": 0.006581424660020307,
+		"liquidity": 1042569.0006482871,
+		"lpAddress": "0x559ebe4e206e6b4d50e9bd3008cda7ce640c52cb",
+		"marketPrice": 0.00778127,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+		"price": 0.013072583958528278,
+		"liquidity": 21046.09824852825,
+		"lpAddress": "0xf0e3fdf48661cd10d56692f60bd4eccd01e9cf64",
+		"marketPrice": 0.717858,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+		"price": 7580.62101710625,
+		"liquidity": 3965166.7557874722,
+		"lpAddress": "0x088ee5007c98a9677165d78dd2109ae4a3d04d0c",
+		"marketPrice": 7746.1,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+		"price": 0.9996322701696747,
+		"liquidity": 2396666.802174,
+		"lpAddress": "0x00cef0386ed94d738c8f8a74e8bfd0376926d24c",
+		"marketPrice": 1.002,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f",
+		"price": 2.0978856875737453e-16,
+		"liquidity": 73528079228544.72,
+		"lpAddress": "0x6fb51426cd0fc61551633b1a05287a8feb9c67bd",
+		"marketPrice": 0.00104112,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02",
+		"price": 1.4887314060419066e-8,
+		"liquidity": 1465724.438472249,
+		"lpAddress": "0xdf60e6416fcf8c955fddf01148753a911f7a5905",
+		"marketPrice": 1.3886e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+		"price": 6.987800957847091,
+		"liquidity": 11682190.653458886,
+		"lpAddress": "0xa6cc3c2531fdaa6ae1a3ca84c2855806728693e8",
+		"marketPrice": 7.33,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+		"price": 0.023694540931199652,
+		"liquidity": 1713810.6613647456,
+		"lpAddress": "0xe20745b629df6456dc8840ff4bc6e275459b3edf",
+		"marketPrice": 0.0194452,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+		"price": 0.36139530243487855,
+		"liquidity": 1007617.368108362,
+		"lpAddress": "0x99dfde431b40321a35deb6aeb55cf338ddd6eccd",
+		"marketPrice": 0.351674,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x35a532d376ffd9a705d0bb319532837337a398e7",
+		"price": 0.06014852645951254,
+		"liquidity": 1652288.0100035376,
+		"lpAddress": "0xc3d7aa944105d3fafe07fc1822102449c916a8d0",
+		"marketPrice": 0.066826,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+		"price": 0.21919851341355975,
+		"liquidity": 815757.4449737703,
+		"lpAddress": "0x1ee312a6d5fe7b4b8c25f0a32fca6391209ebebf",
+		"marketPrice": 0.484138,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+		"price": 522.4901163320679,
+		"liquidity": 618427.04364567,
+		"lpAddress": "0x75f89ffbe5c25161cbc7e97c988c9f391eaefaf9",
+		"marketPrice": 1213.02,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+		"price": 110.71376483253111,
+		"liquidity": 12624119.71517557,
+		"lpAddress": "0xf4c0dd9b82da36c07605df83c8a416f11724d88b",
+		"marketPrice": 120.72,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+		"price": 2.936250942719207,
+		"liquidity": 4014300.397055369,
+		"lpAddress": "0x570febdf89c07f256c75686caca215289bb11cfc",
+		"marketPrice": 2.39,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+		"price": 5.477398462054222,
+		"liquidity": 1072283.5639278474,
+		"lpAddress": "0x9cd028b1287803250b1e226f0180eb725428d069",
+		"marketPrice": 4.53,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
+		"price": 0.02988128099172339,
+		"liquidity": 1667971.437573033,
+		"lpAddress": "0xf8d99cf7046dedcb1dc8cfc309aa96946c9b9db2",
+		"marketPrice": 0.03509106,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+		"price": 1634.235935105849,
+		"liquidity": 18164396.416795224,
+		"lpAddress": "0x9c4fe5ffd9a9fc5678cfbd93aa2d4fd684b67c4c",
+		"marketPrice": 1921.58,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f",
+		"price": 0.00003098401792181241,
+		"liquidity": 3787627.632743977,
+		"lpAddress": "0xec54859519293b8784bc5bf28144166f313618af",
+		"marketPrice": 0.00002275,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+		"price": 6.663396610455468,
+		"liquidity": 2063622.1276348853,
+		"lpAddress": "0xecba967d84fcf0405f6b32bc45f4d36bfdbb2e81",
+		"marketPrice": 10.98,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x120a3879da835a5af037bb2d1456bebd6b54d4ba",
+		"price": 0.03174821264162453,
+		"liquidity": 1068197.0242242443,
+		"lpAddress": "0x6490828bd87be38279a36f029f3b9af8b4e14b49",
+		"marketPrice": 0.051654,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+		"price": 0.08093451057270737,
+		"liquidity": 1724966.672003246,
+		"lpAddress": "0x3478b3ecc153ce61ea3c6788611fdbb374d4305d",
+		"marketPrice": 0.058388,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+		"price": 0.32283443014672825,
+		"liquidity": 1196054.67623005,
+		"lpAddress": "0xaf31fd9c3b0350424bf96e551d2d1264d8466205",
+		"marketPrice": 0.277054,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x2129ff6000b95a973236020bcd2b2006b0d8e019",
+		"price": 0.0005122994365142468,
+		"liquidity": 1011418.2491697393,
+		"lpAddress": "0xe5437565cba444f33f40215afecc92e38e2d1ba9",
+		"marketPrice": 0.00134982,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+		"price": 2.105219724688772,
+		"liquidity": 2947727.9576388984,
+		"lpAddress": "0x1e888882d0f291dd88c5605108c72d414f29d460",
+		"marketPrice": 0.357221,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+		"price": 1.2615401855113313,
+		"liquidity": 1452497.1176444255,
+		"lpAddress": "0x4cd36d6f32586177e36179a810595a33163a20bf",
+		"marketPrice": 1.15,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa735a3af76cc30791c61c10d585833829d36cbe0",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.04462382,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+		"price": 0.9152685155870783,
+		"liquidity": 5772664.2875161525,
+		"lpAddress": "0x1498bd576454159bb81b5ce532692a8752d163e8",
+		"marketPrice": 1.19,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+		"price": 0.8610452747016842,
+		"liquidity": 10386509.748227388,
+		"lpAddress": "0x290a6a7460b308ee3f19023d2d00de604bcf5b42",
+		"marketPrice": 1.23,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+		"price": 1.5900435082834468,
+		"liquidity": 1307836.8793433788,
+		"lpAddress": "0x9def9511fec79f83afcbffe4776b1d817dc775ae",
+		"marketPrice": 3.13,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
+		"price": 0.41334232696522477,
+		"liquidity": 29484117.410255447,
+		"lpAddress": "0x61b62c5d56ccd158a38367ef2f539668a06356ab",
+		"marketPrice": 0.03847349,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+		"price": 0.035445394492811165,
+		"liquidity": 670704.6145507172,
+		"lpAddress": "0x9ff68f61ca5eb0c6606dc517a9d44001e564bb66",
+		"marketPrice": 0.215163,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+		"price": 3.891113815728886e-20,
+		"liquidity": 2.6124055836705305e+23,
+		"lpAddress": "0x383d02acbb27b0066234cc1c9c459e0c54a41b24",
+		"marketPrice": 0.0479754,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+		"price": 0.0008665903051179074,
+		"liquidity": 2215085.2401185464,
+		"lpAddress": "0xb5de0c3753b6e1b4dba616db82767f17513e6d4e",
+		"marketPrice": 0.00082823,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f",
+		"price": 0.00023928240966746106,
+		"liquidity": 1731970.9397001637,
+		"lpAddress": "0x27eb76bb1c63d7abd24a5b14da7426737c8477cd",
+		"marketPrice": 0.00037566,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x961dd84059505d59f82ce4fb87d3c09bec65301d",
+		"price": 70.44206088366553,
+		"liquidity": 1567602.9356045777,
+		"lpAddress": "0xbc5f4f9332d8415aaf31180ab4661c9141cc84e4",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+		"price": 1151.49695318721,
+		"liquidity": 297570.5776419627,
+		"lpAddress": "0x01f8989c1e556f5c89c7d46786db98eeaae82c33",
+		"marketPrice": 1369.68,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+		"price": 0.08051048289560325,
+		"liquidity": 732880.1977415994,
+		"lpAddress": "0xde8c195aa41c11a0c4787372defbbddaa31306d2",
+		"marketPrice": 0.10723,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x009668a9691e456972c8ec4cc84e99486308b84d",
+		"price": 7.885790630194236e-10,
+		"liquidity": 4442283.069156466,
+		"lpAddress": "0x2b788a7b1a0ee0da8cb1d2769825198d9c95d19d",
+		"marketPrice": 2.98632e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x91383a15c391c142b80045d8b4730c1c37ac0378",
+		"price": 4.944131395531957e-10,
+		"liquidity": 53296717216.08201,
+		"lpAddress": "0x694f8f9e0ec188f528d6354fdd0e47dca79b6f2c",
+		"marketPrice": 0.243744,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+		"price": 0.01608831962859781,
+		"liquidity": 2120472.4130561394,
+		"lpAddress": "0x27fd0857f0ef224097001e87e61026e39e1b04d1",
+		"marketPrice": 0.01267499,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9",
+		"price": 1.0687820569781919e-11,
+		"liquidity": 14102133.748408545,
+		"lpAddress": "0x26b4b107dce673c00d59d71152136327cf6dfebf",
+		"marketPrice": 0.00052561,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+		"price": 2.047224678650109,
+		"liquidity": 1530888.670174133,
+		"lpAddress": "0x3fa5db0910afc2a1e6de45039ea217410fb8641d",
+		"marketPrice": 1.18,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xdc349913d53b446485e98b76800b6254f43df695",
+		"price": 6.221731296231475e-10,
+		"liquidity": 1065496.1930603138,
+		"lpAddress": "0x1f964ff83c54ce447adae5cb93f9ec17018bf55b",
+		"marketPrice": 4.15802e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+		"price": 2.821100823823363,
+		"liquidity": 3158930.374691764,
+		"lpAddress": "0x8ae720a71622e824f576b4a8c03031066548a3b1",
+		"marketPrice": 2.78,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+		"price": 0.014207971928363641,
+		"liquidity": 1670457.0095039452,
+		"lpAddress": "0xfe9a776154f30281517d4f06578591911906f4e1",
+		"marketPrice": 0.00883323,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e",
+		"price": 0.004511040526011087,
+		"liquidity": 891556.9284233326,
+		"lpAddress": "0x78b9524101fb67286338261ddd85e20665e571c1",
+		"marketPrice": 0.00464264,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad",
+		"price": 546.1840970532444,
+		"liquidity": 5.240000000000001e-15,
+		"lpAddress": "0xd45b2878f72f856eccd89cd4bc1a0d944d1978a3",
+		"marketPrice": 958.87,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+		"price": 1.0436836991761002e-9,
+		"liquidity": 15358251.80038722,
+		"lpAddress": "0x323e054a6dd8762011d60993f51e23e2096b221f",
+		"marketPrice": 0.00072899,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x798d1be841a82a273720ce31c822c61a67a601c3",
+		"price": 3167.288315207823,
+		"liquidity": 245313.1153983773,
+		"lpAddress": "0x9a13867048e01c663ce8ce2fe0cdae69ff9f35e3",
+		"marketPrice": 4158.86,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+		"price": 0.000010308954919444449,
+		"liquidity": 1776.260488750084,
+		"lpAddress": "0x5a459d168a55071dd1ad60d7393afbdb72c4ccab",
+		"marketPrice": 0.00001348,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+		"price": 3.831765850356405e-8,
+		"liquidity": 2309442.1874669697,
+		"lpAddress": "0x8ef79d6c328c25da633559c20c75f638a4863462",
+		"marketPrice": 2.9306e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x4206931337dc273a630d328da6441786bfad668f",
+		"price": 0.059609786650369555,
+		"liquidity": 972767.275793,
+		"lpAddress": "0xfcd13ea0b906f2f87229650b8d93a51b2e839ebd",
+		"marketPrice": 0,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+		"price": 1.9241591074220592,
+		"liquidity": 5069202.147490895,
+		"lpAddress": "0xcfca23ca9ca720b6e98e3eb9b6aa0ffc4a5c08b9",
+		"marketPrice": 2.87,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+		"price": 0.29655577593459187,
+		"liquidity": 2183133.305530647,
+		"lpAddress": "0x99b42f2b49c395d2a77d973f6009abb5d67da343",
+		"marketPrice": 0.323734,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
+		"price": 6.522592195517406e-8,
+		"liquidity": 10640275.665505175,
+		"lpAddress": "0x7a809081f991ecfe0ab2727c7e90d2ad7c2e411e",
+		"marketPrice": 5.0087e-8,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+		"price": 0.0010683451581403065,
+		"liquidity": 3202821.111553943,
+		"lpAddress": "0xe3d3551bb608e7665472180a20280630d9e938aa",
+		"marketPrice": 0.00260464,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x3b78dc5736a49bd297dd2e4d62daa83d35a22749",
+		"price": 0.04492208759746838,
+		"liquidity": 895786.0537553292,
+		"lpAddress": "0x2a6c361b43a2edcae08e2bd5448e90e9369cced9",
+		"marketPrice": 0.052779,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+		"price": 0,
+		"liquidity": 0,
+		"lpAddress": "",
+		"marketPrice": 0.04691139,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+		"price": 0.1734624728310623,
+		"liquidity": 842249.536422,
+		"lpAddress": "0xa9c326b190f12e537206480c70aba242e432e47c",
+		"marketPrice": 0.125077,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+		"price": 4.5966681820054067e-10,
+		"liquidity": 1351174.1603575582,
+		"lpAddress": "0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88",
+		"marketPrice": 5.14662e-10,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+		"price": 52.8209139929477,
+		"liquidity": 59742272.957786664,
+		"lpAddress": "0x6a091a3406e0073c3cd6340122143009adac0eda",
+		"marketPrice": 76.07,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0x131157c6760f78f7ddf877c0019eba175ba4b6f6",
+		"price": 1.550407465644042,
+		"liquidity": 7822012.879201185,
+		"lpAddress": "0x149148acc3b06b8cc73af3a10e84189243a35925",
+		"marketPrice": 1.49,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"price": 1,
+		"liquidity": 99999999999999,
+		"lpAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+		"marketPrice": 1.001,
+		"preferPriceSource": ""
+	},
+	{
+		"address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+		"price": 0.21469640331068196,
+		"liquidity": 2173006.973558499,
+		"lpAddress": "0xcaa004418eb42cdf00cb057b7c9e28f0ffd840a5",
+		"marketPrice": 0.441703,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
+		"price": 0.0008617995735032231,
+		"liquidity": 1535992.9624704602,
+		"lpAddress": "0x9c84f58bb51fabd18698efe95f5bab4f33e96e8f",
+		"marketPrice": 0.00094341,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xcfeaead4947f0705a14ec42ac3d44129e1ef3ed5",
+		"price": 0.30810335839770414,
+		"liquidity": 3393740.8473558007,
+		"lpAddress": "0x5122e01d819e58bb2e22528c0d68d310f0aa6fd7",
+		"marketPrice": 0.182573,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+		"price": 19.533471950898505,
+		"liquidity": 6575311.801204152,
+		"lpAddress": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+		"marketPrice": 21.2,
+		"preferPriceSource": "coingecko"
+	},
+	{
+		"address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+		"price": 253.3325623037953,
+		"liquidity": 560446.7455625352,
+		"lpAddress": "0xc70bb2736e218861dca818d1e9f7a1930fe61e5b",
+		"marketPrice": 490.76,
+		"preferPriceSource": "coingecko"
+	}
+]

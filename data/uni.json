@@ -1,0 +1,5952 @@
+[
+	{
+		"reserveUsd": 1846920.5572990575,
+		"amplifiedTvl": 1846920.5572990575,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308899,
+		"reserves": [
+			"25507676861685540874931588",
+			"549810779616768335550"
+		],
+		"tokens": [
+			{
+				"address": "0x30dcba0405004cf124045793e1933c798af9e66a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "104944544708824110594442"
+	},
+	{
+		"reserveUsd": 2191196.145772664,
+		"amplifiedTvl": 2191196.145772664,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675305767,
+		"reserves": [
+			"1103069642885345447590856184",
+			"665794765389010289295"
+		],
+		"tokens": [
+			{
+				"address": "0xbaac2b4491727d78d2b78815144570b9f2fe8899",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "800402107437849073674445"
+	},
+	{
+		"reserveUsd": 53341964833.66394,
+		"amplifiedTvl": 53341964833.66394,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1672650383,
+		"reserves": [
+			"218844216448117567574",
+			"83276602377769674"
+		],
+		"tokens": [
+			{
+				"address": "0x91383a15c391c142b80045d8b4730c1c37ac0378",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "72957050803213999"
+	},
+	{
+		"reserveUsd": 1013374.298279273,
+		"amplifiedTvl": 1013374.298279273,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309175,
+		"reserves": [
+			"286613699401077449",
+			"301128076742523385829"
+		],
+		"tokens": [
+			{
+				"address": "0x1e0b2992079b620aa13a7c2e7c88d2e1e18e46e9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "8692398471418246007"
+	},
+	{
+		"reserveUsd": 255191595.06891623,
+		"amplifiedTvl": 255191595.06891623,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1595687332,
+		"reserves": [
+			"1",
+			"35254908160"
+		],
+		"tokens": [
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1000"
+	},
+	{
+		"reserveUsd": 2746857.556197835,
+		"amplifiedTvl": 2746857.556197835,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304603,
+		"reserves": [
+			"822715604796493199054",
+			"817537559911244148589"
+		],
+		"tokens": [
+			{
+				"address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "625388632284565566770"
+	},
+	{
+		"reserveUsd": 3310059.006128335,
+		"amplifiedTvl": 3310059.006128335,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306451,
+		"reserves": [
+			"58349568965614159237055592",
+			"984103184066494745779"
+		],
+		"tokens": [
+			{
+				"address": "0x93ed3fbe21207ec2e8f2d3c3de6e058cb73bc04d",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "162998618722214917988753"
+	},
+	{
+		"reserveUsd": 5384821.617611637,
+		"amplifiedTvl": 5384821.617611637,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308827,
+		"reserves": [
+			"1615488758840983080414",
+			"1027590445542375803"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xce3f08e664693ca792cace4af1364d5e220827b2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "38789021403810136916"
+	},
+	{
+		"reserveUsd": 1955536.1406630399,
+		"amplifiedTvl": 1955536.1406630399,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675291811,
+		"reserves": [
+			"73096691091991190007553315",
+			"623595273852967125102"
+		],
+		"tokens": [
+			{
+				"address": "0x5f190f9082878ca141f858c1c90b4c59fe2782c5",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "213380528047898503648158"
+	},
+	{
+		"reserveUsd": 4.164468574325255e+21,
+		"amplifiedTvl": 4.164468574325255e+21,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675283027,
+		"reserves": [
+			"2660804645945844167",
+			"575324422747521903837515"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "492133353892216339060"
+	},
+	{
+		"reserveUsd": 1667241.5837268601,
+		"amplifiedTvl": 1666764.711776325,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308359,
+		"reserves": [
+			"3845741536575173281878711",
+			"500921756722599373335"
+		],
+		"tokens": [
+			{
+				"address": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "41112018205408299481389"
+	},
+	{
+		"reserveUsd": 1382873.8608453183,
+		"amplifiedTvl": 1382873.8608453183,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308923,
+		"reserves": [
+			"562699135505460580602657",
+			"412028801096113727383"
+		],
+		"tokens": [
+			{
+				"address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5049087200116328788912"
+	},
+	{
+		"reserveUsd": 1123380.419260331,
+		"amplifiedTvl": 1123380.419260331,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675298711,
+		"reserves": [
+			"124181961941221",
+			"334238881770374457391"
+		],
+		"tokens": [
+			{
+				"address": "0x903bef1736cddf2a537176cf3c64579c3867a881",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "165330331768039185"
+	},
+	{
+		"reserveUsd": 1530384.236796614,
+		"amplifiedTvl": 1530384.236796614,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309391,
+		"reserves": [
+			"453785504342251942113",
+			"60339099739995586872724928"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "132528974170893048769315"
+	},
+	{
+		"reserveUsd": 3355312.999387935,
+		"amplifiedTvl": 3355312.999387935,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308599,
+		"reserves": [
+			"1676952439334515779669664",
+			"73700378356663073200601830196"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xb53ecf1345cabee6ea1a65100ebb153cebcac40f",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "325808749640185294185953083"
+	},
+	{
+		"reserveUsd": 7014257.710051764,
+		"amplifiedTvl": 7014257.710051764,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308167,
+		"reserves": [
+			"2983049924638973399013004",
+			"2100234988065297334123"
+		],
+		"tokens": [
+			{
+				"address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "75159760210035283677020"
+	},
+	{
+		"reserveUsd": 1385267.6618538792,
+		"amplifiedTvl": 1385267.6618538792,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675250927,
+		"reserves": [
+			"15180686201079558829148829",
+			"419761944260098701160"
+		],
+		"tokens": [
+			{
+				"address": "0x0ec78ed49c2d27b315d462d43b5bab94d2c79bf8",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "73154745088599626407236"
+	},
+	{
+		"reserveUsd": 1631454.4759237547,
+		"amplifiedTvl": 1631454.4759237547,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675308287,
+		"reserves": [
+			"1990756833430502191740",
+			"67767054731971909588778491985"
+		],
+		"tokens": [
+			{
+				"address": "0x27c70cd1946795b66be9d954418546998b546634",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10608282671752257444173253"
+	},
+	{
+		"reserveUsd": 17628326.284748226,
+		"amplifiedTvl": 17628326.284748226,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308635,
+		"reserves": [
+			"8709879729673783327105918",
+			"33236699864630147240105820"
+		],
+		"tokens": [
+			{
+				"address": "0x956f47f50a910163d8bf957cf5846d573e7f87ca",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "25798138458574650867973187"
+	},
+	{
+		"reserveUsd": 1012092.2227617023,
+		"amplifiedTvl": 1012092.2227617023,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1655963601,
+		"reserves": [
+			"9126832926832984403291353",
+			"316092319625962655231"
+		],
+		"tokens": [
+			{
+				"address": "0x3b78dc5736a49bd297dd2e4d62daa83d35a22749",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "53244718047896544383105"
+	},
+	{
+		"reserveUsd": 1069476.1415136093,
+		"amplifiedTvl": 1069476.1415136093,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675307219,
+		"reserves": [
+			"68422678838711518975317547",
+			"320069610743054691962"
+		],
+		"tokens": [
+			{
+				"address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "117317477006644955929384"
+	},
+	{
+		"reserveUsd": 1336630.2663701084,
+		"amplifiedTvl": 1336630.2663701084,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675303283,
+		"reserves": [
+			"506935630111432401762020139",
+			"398681503423631787553"
+		],
+		"tokens": [
+			{
+				"address": "0x3c48ca59bf2699e51d4974d4b6d284ae52076e5e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "963272100879018"
+	},
+	{
+		"reserveUsd": 2768881.365769382,
+		"amplifiedTvl": 2768881.365769382,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675296911,
+		"reserves": [
+			"3061820901463119426722",
+			"2766115250518863513878076"
+		],
+		"tokens": [
+			{
+				"address": "0x67372e5b5279044e188e1a25ca95975bb9b7a0e8",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1414213562373095048801"
+	},
+	{
+		"reserveUsd": 1846651.9443120267,
+		"amplifiedTvl": 1846651.9443120267,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308299,
+		"reserves": [
+			"10086666350847009135448",
+			"548943317714058985134"
+		],
+		"tokens": [
+			{
+				"address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2012074219822547169531"
+	},
+	{
+		"reserveUsd": 5193461.073422785,
+		"amplifiedTvl": 5193461.073422785,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674727499,
+		"reserves": [
+			"3019195436466024129675815",
+			"444478223"
+		],
+		"tokens": [
+			{
+				"address": "0xb0b1685f55843d03739c7d9b0a230f1b7dcf03d5",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "36274998336333155"
+	},
+	{
+		"reserveUsd": 1051466.4441333269,
+		"amplifiedTvl": 1051466.4441333269,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305803,
+		"reserves": [
+			"1451370877149388659755795",
+			"312355786542957217671"
+		],
+		"tokens": [
+			{
+				"address": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "9113805529688747019243"
+	},
+	{
+		"reserveUsd": 15242699.718638217,
+		"amplifiedTvl": 15242699.718638217,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673192507,
+		"reserves": [
+			"1065567945971440560",
+			"194516015033806425"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd58f55b2c7b64afed8d21c5e852bcccae721e376",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "230445909348133161050"
+	},
+	{
+		"reserveUsd": 271908324784254.25,
+		"amplifiedTvl": 271908324784254.25,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1637585191,
+		"reserves": [
+			"67680109372985",
+			"179240820556528766500140245"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd0f57b427971ea60909a28648987141a81f8dc03",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "99000000000000001000"
+	},
+	{
+		"reserveUsd": 2515975.85810198,
+		"amplifiedTvl": 2515975.85810198,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307987,
+		"reserves": [
+			"32268567561363710",
+			"777440310720438052562"
+		],
+		"tokens": [
+			{
+				"address": "0xaa0c5b3567fd1bac8a2a11eb16c3f81a49eea90f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "4979587194476875537"
+	},
+	{
+		"reserveUsd": 1694305.2192941473,
+		"amplifiedTvl": 1694305.2192941473,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309355,
+		"reserves": [
+			"66869124752674184913679814",
+			"505592326584746181786"
+		],
+		"tokens": [
+			{
+				"address": "0x0d02755a5700414b26ff040e1de35d337df56218",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "142445233285535360356318"
+	},
+	{
+		"reserveUsd": 506658748189391900000,
+		"amplifiedTvl": 506658748189391900000,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1649029195,
+		"reserves": [
+			"600112461477972062812",
+			"1807427421947"
+		],
+		"tokens": [
+			{
+				"address": "0x27af23d8db2a3fbce7d04e84f594285fb0059316",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "30263947193992838"
+	},
+	{
+		"reserveUsd": 4324100.272209512,
+		"amplifiedTvl": 4324100.272209512,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304087,
+		"reserves": [
+			"1053638219509503884605120",
+			"2151454085934"
+		],
+		"tokens": [
+			{
+				"address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1198797283990610674"
+	},
+	{
+		"reserveUsd": 1225254.5573863732,
+		"amplifiedTvl": 1225254.5573863732,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308899,
+		"reserves": [
+			"3242148505277428564103187435694",
+			"369722957896408647461"
+		],
+		"tokens": [
+			{
+				"address": "0x3b484b82567a09e2588a13d54d032153f0c0aee0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1584580626530828899232092"
+	},
+	{
+		"reserveUsd": 2145046.878186575,
+		"amplifiedTvl": 2145046.878186575,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309043,
+		"reserves": [
+			"343409805141284098390982",
+			"638349739687770104046"
+		],
+		"tokens": [
+			{
+				"address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "11807416272290415109940"
+	},
+	{
+		"reserveUsd": 1230116.4527497552,
+		"amplifiedTvl": 1230116.4527497552,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674241595,
+		"reserves": [
+			"19448409985568391601826341164",
+			"393096266"
+		],
+		"tokens": [
+			{
+				"address": "0x11c49e5ca7222f89909a6ec42d81eb6b2af5ff40",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "344202532371663"
+	},
+	{
+		"reserveUsd": 1398904.2335941563,
+		"amplifiedTvl": 1398904.2335941563,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309319,
+		"reserves": [
+			"35098381032899517",
+			"417899915960486619802"
+		],
+		"tokens": [
+			{
+				"address": "0x2d886570a0da04885bfd6eb48ed8b8ff01a0eb7e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3695303180134575630"
+	},
+	{
+		"reserveUsd": 1204311.099488616,
+		"amplifiedTvl": 1204311.099488616,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307435,
+		"reserves": [
+			"600354571189745484103831",
+			"602153665491"
+		],
+		"tokens": [
+			{
+				"address": "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "434618839350644738"
+	},
+	{
+		"reserveUsd": 36388872232308.79,
+		"amplifiedTvl": 36388872232308.79,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309175,
+		"reserves": [
+			"72457482312680379",
+			"23893995938048224064"
+		],
+		"tokens": [
+			{
+				"address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1224744871391589049"
+	},
+	{
+		"reserveUsd": 2283433.888128168,
+		"amplifiedTvl": 2283433.888128168,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307651,
+		"reserves": [
+			"1489425041774493650732127",
+			"679738625651233800804"
+		],
+		"tokens": [
+			{
+				"address": "0x3845badade8e6dff049820680d1f14bd3903a5d0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "20202456120958186349953"
+	},
+	{
+		"reserveUsd": 1260303.8552927745,
+		"amplifiedTvl": 1260303.8552927745,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304243,
+		"reserves": [
+			"628791899863029887197747",
+			"147402608301374217179077"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "294546816174893273822685"
+	},
+	{
+		"reserveUsd": 3253068.0483437893,
+		"amplifiedTvl": 3253068.0483437893,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1604166370,
+		"reserves": [
+			"1938715723557787136830",
+			"679288231504582"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd233d1f6fd11640081abb8db125f722b5dc729dc",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "817877991073296535"
+	},
+	{
+		"reserveUsd": 2587860.623363687,
+		"amplifiedTvl": 2587860.623363687,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1660983604,
+		"reserves": [
+			"711724010480817275704922461406946",
+			"19160053824983674"
+		],
+		"tokens": [
+			{
+				"address": "0x62cc7d1790e5a9470be22ae9f14065cbfe44bf10",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "4056599577306256769760161"
+	},
+	{
+		"reserveUsd": 1138407.0568824653,
+		"amplifiedTvl": 1138407.0568824653,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675290527,
+		"reserves": [
+			"181690289474351264087717594613",
+			"338747217625726913922"
+		],
+		"tokens": [
+			{
+				"address": "0x3b604747ad1720c01ded0455728b62c0d2f100f0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7745425527819852744229015"
+	},
+	{
+		"reserveUsd": 1.2352852961500296e+23,
+		"amplifiedTvl": 1.2352852961500296e+23,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1674936527,
+		"reserves": [
+			"153947088847461775813596",
+			"77063667174334781787"
+		],
+		"tokens": [
+			{
+				"address": "0xb05097849bca421a3f51b249ba6cca4af4b97cb9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3344413391358109215902"
+	},
+	{
+		"reserveUsd": 6978208862526.71,
+		"amplifiedTvl": 6978208862526.71,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1672533263,
+		"reserves": [
+			"16353362820341763737626951197287",
+			"4407066319296201"
+		],
+		"tokens": [
+			{
+				"address": "0x2bf6267c4997548d8de56087e5d48bdccb877e77",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "254457920518917424456934"
+	},
+	{
+		"reserveUsd": 1931455.610455587,
+		"amplifiedTvl": 1931455.610455587,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308323,
+		"reserves": [
+			"542830903300933095814619",
+			"575235616424760065298"
+		],
+		"tokens": [
+			{
+				"address": "0x88acdd2a6425c3faae4bc9650fd7e27e0bebb7ab",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "12931381350647487163607"
+	},
+	{
+		"reserveUsd": 4249534.0096882805,
+		"amplifiedTvl": 4249534.0096882805,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308743,
+		"reserves": [
+			"19262160673321412110915532",
+			"2121409402450"
+		],
+		"tokens": [
+			{
+				"address": "0x53c8395465a84955c95159814461466053dedede",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5996987473578373813"
+	},
+	{
+		"reserveUsd": 1534514.1651919656,
+		"amplifiedTvl": 1534514.1651919656,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675302239,
+		"reserves": [
+			"649896953975725271774147",
+			"766868890610"
+		],
+		"tokens": [
+			{
+				"address": "0x7659ce147d0e714454073a5dd7003544234b6aa0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "29005228843005665"
+	},
+	{
+		"reserveUsd": 3.379773246359942e+23,
+		"amplifiedTvl": 3.379773246359942e+23,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675283759,
+		"reserves": [
+			"7044804725671785004486479",
+			"194203250953262941051"
+		],
+		"tokens": [
+			{
+				"address": "0x10be9a8dae441d276a5027936c3aaded2d82bc15",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "31312494600771005020960"
+	},
+	{
+		"reserveUsd": 112557031.48939207,
+		"amplifiedTvl": 112557031.48939207,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675299551,
+		"reserves": [
+			"431266243194348827155441428",
+			"34435542534071298322309"
+		],
+		"tokens": [
+			{
+				"address": "0x66a0f676479cee1d7373f3dc2e2952778bff5bd6",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3818253468149789073949271"
+	},
+	{
+		"reserveUsd": 1393749.3624940405,
+		"amplifiedTvl": 1393749.3624940405,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309319,
+		"reserves": [
+			"57594033867521765844424557828",
+			"415328405732492615293"
+		],
+		"tokens": [
+			{
+				"address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "431771042680365331795616"
+	},
+	{
+		"reserveUsd": 4074617.01609987,
+		"amplifiedTvl": 4074617.01609987,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308299,
+		"reserves": [
+			"1215377720143792319379",
+			"1833580153679814"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "548515322142703824"
+	},
+	{
+		"reserveUsd": 9405225.326738136,
+		"amplifiedTvl": 9405225.326738136,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674988235,
+		"reserves": [
+			"430389266909792719",
+			"17893923053059261762252422122"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "51819415608490640698668"
+	},
+	{
+		"reserveUsd": 1076811.01,
+		"amplifiedTvl": 1076811.01,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1600777007,
+		"reserves": [
+			"1123",
+			"895"
+		],
+		"tokens": [
+			{
+				"address": "0x793e2602a8396468f3ce6e34c1b6c6fd6d985bad",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1000"
+	},
+	{
+		"reserveUsd": 1251737.9783989077,
+		"amplifiedTvl": 1251737.9783989077,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305347,
+		"reserves": [
+			"1320428071327564",
+			"1250487490908"
+		],
+		"tokens": [
+			{
+				"address": "0x4206931337dc273a630d328da6441786bfad668f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "36157884213519"
+	},
+	{
+		"reserveUsd": 1089353.08925785,
+		"amplifiedTvl": 1089353.08925785,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673345879,
+		"reserves": [
+			"7928129571611103495835",
+			"166337842700464055413"
+		],
+		"tokens": [
+			{
+				"address": "0x610c67be018a5c5bdc70acd8dc19688a11421073",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1130409866654524824264"
+	},
+	{
+		"reserveUsd": 73528079228548.92,
+		"amplifiedTvl": 73528079228548.92,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1648851882,
+		"reserves": [
+			"7062401954484569266010757",
+			"11422684048310163"
+		],
+		"tokens": [
+			{
+				"address": "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "8944271909999158"
+	},
+	{
+		"reserveUsd": 1.9282449370949017e+24,
+		"amplifiedTvl": 1.9282449370949017e+24,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1626967560,
+		"reserves": [
+			"608279159966845916623771",
+			"2518848821698"
+		],
+		"tokens": [
+			{
+				"address": "0x089a502032166e07ae83eb434c16790ca2fa4661",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1233532221805623675"
+	},
+	{
+		"reserveUsd": 1480344.6919754623,
+		"amplifiedTvl": 1480344.6919754623,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308203,
+		"reserves": [
+			"154064687786846276374253",
+			"738554988732"
+		],
+		"tokens": [
+			{
+				"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "271300220702350984"
+	},
+	{
+		"reserveUsd": 12119261.931877043,
+		"amplifiedTvl": 12119261.931877043,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308047,
+		"reserves": [
+			"858353345596781740434184",
+			"3619433002332121599820"
+		],
+		"tokens": [
+			{
+				"address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "24506140517120567813474"
+	},
+	{
+		"reserveUsd": 1286469.986546041,
+		"amplifiedTvl": 1286469.986546041,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675300343,
+		"reserves": [
+			"383324977908553018994",
+			"2330682877570876280530899"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xf418588522d5dd018b425e472991e52ebbeeeeee",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "23525322254215868443589"
+	},
+	{
+		"reserveUsd": 1197312.68,
+		"amplifiedTvl": 1197312.68,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1603146888,
+		"reserves": [
+			"218",
+			"4599"
+		],
+		"tokens": [
+			{
+				"address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x4be40bc9681d0a7c24a99b4c92f85b9053fc2a45",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1000"
+	},
+	{
+		"reserveUsd": 1154375.9672585786,
+		"amplifiedTvl": 1154375.9672585786,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675303187,
+		"reserves": [
+			"345885759496448762169",
+			"1186663447272404008140822"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xeeaa40b28a2d1b0b08f6f97bb1dd4b75316c6107",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "17713891615974890211745"
+	},
+	{
+		"reserveUsd": 1109312.8880533373,
+		"amplifiedTvl": 1109312.8880533373,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304147,
+		"reserves": [
+			"5994175078495199214663381",
+			"336456212287186746174"
+		],
+		"tokens": [
+			{
+				"address": "0x8b39b70e39aa811b69365398e0aace9bee238aeb",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "32588749256297633959555"
+	},
+	{
+		"reserveUsd": 2432506.743212037,
+		"amplifiedTvl": 2432506.743212037,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675298687,
+		"reserves": [
+			"727556717231873144544",
+			"1644547977107512759287851773036"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "34351536012117865801934194"
+	},
+	{
+		"reserveUsd": 1993716.034502278,
+		"amplifiedTvl": 1993716.034502278,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309319,
+		"reserves": [
+			"873724045775358051400438",
+			"996673948370"
+		],
+		"tokens": [
+			{
+				"address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "844875462291367613"
+	},
+	{
+		"reserveUsd": 6746983.851403812,
+		"amplifiedTvl": 6746983.851403812,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675305335,
+		"reserves": [
+			"359696153475575745152718",
+			"2008067564747552284478"
+		],
+		"tokens": [
+			{
+				"address": "0x65ef703f5594d2573eb71aaf55bc0cb548492df4",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "25011681779519475864334"
+	},
+	{
+		"reserveUsd": 1111188.2180004437,
+		"amplifiedTvl": 1111188.2180004437,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306163,
+		"reserves": [
+			"6307624240701971140382",
+			"331681574126744279968"
+		],
+		"tokens": [
+			{
+				"address": "0x1494ca1f11d487c2bbe4543e90080aeba4ba3c2b",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1201576678256651642192"
+	},
+	{
+		"reserveUsd": 521556492297.2618,
+		"amplifiedTvl": 521556492297.2618,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673716439,
+		"reserves": [
+			"1000010530700251703510065682399",
+			"8830348159158"
+		],
+		"tokens": [
+			{
+				"address": "0xbba477999ed5b067fddbb1fe1797ba026d89eb23",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2598076211353315940291"
+	},
+	{
+		"reserveUsd": 6744480.375196403,
+		"amplifiedTvl": 6744480.375196403,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309343,
+		"reserves": [
+			"2013353450346663420126",
+			"2964251140981533562950714988"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xe80c0cd204d654cebe8dd64a4857cab6be8345a3",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2203834785202193217432643"
+	},
+	{
+		"reserveUsd": 2459555.8402648396,
+		"amplifiedTvl": 2459555.8402648396,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675298531,
+		"reserves": [
+			"2048538139931169876042906",
+			"735396460231210190528"
+		],
+		"tokens": [
+			{
+				"address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "33504118326974125301267"
+	},
+	{
+		"reserveUsd": 1145375.631092518,
+		"amplifiedTvl": 1145375.631092518,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673099771,
+		"reserves": [
+			"9265179741946766",
+			"2760635553"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xf5832512cfda8083e5b2dd0aa7c1b9265c03ba1f",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10263620"
+	},
+	{
+		"reserveUsd": 5652736.876247208,
+		"amplifiedTvl": 5652736.876247208,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"1688076093556735018621",
+			"3827673174624978584771488770178"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc669928185dbce49d2230cc9b0979be6dc797957",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "15082711481979191091900610"
+	},
+	{
+		"reserveUsd": 12530849.499324812,
+		"amplifiedTvl": 12530849.499324812,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673376791,
+		"reserves": [
+			"27001025468716541355",
+			"17189292680692902071273571558"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x9d1233cc46795e94029fda81aaadc1455d510f15",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "611737632384096178745230"
+	},
+	{
+		"reserveUsd": 16278994.43228469,
+		"amplifiedTvl": 16278994.43228469,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675114439,
+		"reserves": [
+			"36115946047911181222011386",
+			"14874613329840"
+		],
+		"tokens": [
+			{
+				"address": "0xb5fe099475d3030dde498c3bb6f3854f762a48ad",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "21541798827125735139"
+	},
+	{
+		"reserveUsd": 1499098.7047876988,
+		"amplifiedTvl": 1499529.4741547285,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675296023,
+		"reserves": [
+			"36880938958027855538379316",
+			"748581287809"
+		],
+		"tokens": [
+			{
+				"address": "0x8dbf9a4c99580fc7fd4024ee08f3994420035727",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5248190949857029286"
+	},
+	{
+		"reserveUsd": 1518742.624709047,
+		"amplifiedTvl": 1518742.624709047,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675299719,
+		"reserves": [
+			"250375702199489",
+			"459017094535174422450"
+		],
+		"tokens": [
+			{
+				"address": "0xa393473d64d2f9f026b60b6df7859a689715d092",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "160361311216449845"
+	},
+	{
+		"reserveUsd": 1322160.8001876846,
+		"amplifiedTvl": 1322160.8001876846,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304447,
+		"reserves": [
+			"572923603162743295848033",
+			"662636020530"
+		],
+		"tokens": [
+			{
+				"address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "490361901999991741"
+	},
+	{
+		"reserveUsd": 2028086.1655814005,
+		"amplifiedTvl": 2028086.1655814005,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675176971,
+		"reserves": [
+			"65712746050116452895277",
+			"26375874503203206984"
+		],
+		"tokens": [
+			{
+				"address": "0xa4bad5d040d4464ec5ce130987731f2f428c9307",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1225419534575886910316"
+	},
+	{
+		"reserveUsd": 1553879.7937063104,
+		"amplifiedTvl": 1553879.7937063104,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308647,
+		"reserves": [
+			"2021743354446711134293413",
+			"463185925191664289082"
+		],
+		"tokens": [
+			{
+				"address": "0xa5f2211b9b8170f694421f2046281775e8468044",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "25986981673512526980501"
+	},
+	{
+		"reserveUsd": 11584277.827496357,
+		"amplifiedTvl": 11561748.510270778,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1669427759,
+		"reserves": [
+			"247574914566826061718513173",
+			"2474331266442568946"
+		],
+		"tokens": [
+			{
+				"address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xec4a1c7a4e9fdc7cc621b548a931c92bc08a679a",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "24750146784625258247498"
+	},
+	{
+		"reserveUsd": 4563990.030564116,
+		"amplifiedTvl": 4563990.030564116,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309283,
+		"reserves": [
+			"1373961620251833517175",
+			"265638612580555259019026011932"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xf0f9d895aca5c8678f706fb8216fa22957685a13",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "12972427453501116722466080"
+	},
+	{
+		"reserveUsd": 2313222.131580692,
+		"amplifiedTvl": 2313222.131580692,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307963,
+		"reserves": [
+			"32969130482985922561153339",
+			"1155145250404"
+		],
+		"tokens": [
+			{
+				"address": "0x4aa41bc1649c9c3177ed16caaa11482295fc7441",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "6056329282064540649"
+	},
+	{
+		"reserveUsd": 1624399.7689390543,
+		"amplifiedTvl": 1624399.7689390543,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309091,
+		"reserves": [
+			"1538771388070555262292088",
+			"496112881082205190076"
+		],
+		"tokens": [
+			{
+				"address": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5994898368978128459255"
+	},
+	{
+		"reserveUsd": 50887500000.000656,
+		"amplifiedTvl": 50887500000.000656,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1653708983,
+		"reserves": [
+			"500000000000006489",
+			"1"
+		],
+		"tokens": [
+			{
+				"address": "0x55986c1dcbf2fa1f3402c5df256272621624821f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1000"
+	},
+	{
+		"reserveUsd": 1618984.9613189888,
+		"amplifiedTvl": 1618984.9613189888,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309031,
+		"reserves": [
+			"57995158800567081161180266215807",
+			"484915632893897078892"
+		],
+		"tokens": [
+			{
+				"address": "0x48c276e8d03813224bb1e55f953adb6d02fd3e02",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "138178636332477040600856884"
+	},
+	{
+		"reserveUsd": 2137422.0603706557,
+		"amplifiedTvl": 2137422.0603706557,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675309199,
+		"reserves": [
+			"2606913639523813475192",
+			"641066940770223671322"
+		],
+		"tokens": [
+			{
+				"address": "0x27c70cd1946795b66be9d954418546998b546634",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1081239947035383498777"
+	},
+	{
+		"reserveUsd": 5547552.186258042,
+		"amplifiedTvl": 5547552.186258042,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309427,
+		"reserves": [
+			"16935125356443385546636823",
+			"1651870299667033336121"
+		],
+		"tokens": [
+			{
+				"address": "0x1e4ede388cbc9f4b5c79681b7f94d36a11abebc9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "122529400846273729736971"
+	},
+	{
+		"reserveUsd": 15126252.360834168,
+		"amplifiedTvl": 15126252.360834168,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309427,
+		"reserves": [
+			"7556492211566395063055240",
+			"4506811083200457400970"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "103065428814437397456240"
+	},
+	{
+		"reserveUsd": 2227593.314812881,
+		"amplifiedTvl": 2227593.314812881,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307639,
+		"reserves": [
+			"2366795706640241761316300",
+			"664108099675471227713"
+		],
+		"tokens": [
+			{
+				"address": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "23106989703913194344041"
+	},
+	{
+		"reserveUsd": 1441511.3864034426,
+		"amplifiedTvl": 1441511.3864034426,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674179459,
+		"reserves": [
+			"230260726709419914008",
+			"974280147757499163234993"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc9dfcd0a1dd2d7bb6fd2ef91a16a6a1c4e9846dd",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "14871291651382745604231"
+	},
+	{
+		"reserveUsd": 3319583.9900259823,
+		"amplifiedTvl": 3319583.9900259823,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308995,
+		"reserves": [
+			"2076545167369293550300",
+			"1056496845848360403512"
+		],
+		"tokens": [
+			{
+				"address": "0x7db5af2b9624e1b3b4bb69d6debd9ad1016a58ac",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1383656309413266910271"
+	},
+	{
+		"reserveUsd": 6261402.573863751,
+		"amplifiedTvl": 6261402.573863751,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675243919,
+		"reserves": [
+			"21781350913786",
+			"3734873021207508332238"
+		],
+		"tokens": [
+			{
+				"address": "0x11e003e9ecc5a2320e8b11098acd550b928b6df2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "282553407955965721"
+	},
+	{
+		"reserveUsd": 5343495.205716306,
+		"amplifiedTvl": 5343495.205716306,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309283,
+		"reserves": [
+			"1438737400593581125960369608427",
+			"1591107291280038149560"
+		],
+		"tokens": [
+			{
+				"address": "0x249e38ea4102d0cf8264d3701f1a0e39c4f2dc3b",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "33566008799273673814482497"
+	},
+	{
+		"reserveUsd": 7072815.118118287,
+		"amplifiedTvl": 7072815.118118287,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675307543,
+		"reserves": [
+			"292360416192688395462541978076",
+			"2105146445379678031621"
+		],
+		"tokens": [
+			{
+				"address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "18661455796223963760640790"
+	},
+	{
+		"reserveUsd": 1177018.078038068,
+		"amplifiedTvl": 1177018.078038068,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306619,
+		"reserves": [
+			"88720637559205519549924140",
+			"362500416605765896474"
+		],
+		"tokens": [
+			{
+				"address": "0x138c2f1123cf3f82e4596d097c118eac6684940b",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "166224542491143404382477"
+	},
+	{
+		"reserveUsd": 1534159.3280746448,
+		"amplifiedTvl": 1534159.3280746448,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674978887,
+		"reserves": [
+			"61444522993447411264791",
+			"468335605638347653258"
+		],
+		"tokens": [
+			{
+				"address": "0x9af15d7b8776fa296019979e70a5be53c714a7ec",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5183937408814890656413"
+	},
+	{
+		"reserveUsd": 1309835.0680435388,
+		"amplifiedTvl": 1309835.0680435388,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307003,
+		"reserves": [
+			"102612151071512438243",
+			"398687720955322147001"
+		],
+		"tokens": [
+			{
+				"address": "0x62359ed7505efc61ff1d56fef82158ccaffa23d7",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "169772241983374761057"
+	},
+	{
+		"reserveUsd": 35827307.257699214,
+		"amplifiedTvl": 35827307.257699214,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"10684034101667208719052",
+			"17882150086720"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "195610058771403978"
+	},
+	{
+		"reserveUsd": 2173606.676955059,
+		"amplifiedTvl": 2173606.676955059,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"23805927336243018",
+			"662293429821788990953"
+		],
+		"tokens": [
+			{
+				"address": "0xa735a3af76cc30791c61c10d585833829d36cbe0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3606834608192959708"
+	},
+	{
+		"reserveUsd": 2344296.4630493377,
+		"amplifiedTvl": 2344296.4630493377,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674585659,
+		"reserves": [
+			"599574515219311179821",
+			"44148457497657540055761845"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd379700999f4805ce80aa32db46a94df64561108",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "159687391839493702715859"
+	},
+	{
+		"reserveUsd": 1322976.7388957702,
+		"amplifiedTvl": 1322976.7388957702,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675294871,
+		"reserves": [
+			"661624630511",
+			"74796024076612891662539303"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xfb782396c9b20e564a64896181c7ac8d8979d5f4",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "6933102595842484065"
+	},
+	{
+		"reserveUsd": 2777590.3083906714,
+		"amplifiedTvl": 2777590.3083906714,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309331,
+		"reserves": [
+			"829142992626528752000",
+			"44277541485563311869749"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd084944d3c05cd115c09d072b9f44ba3e0e45921",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3945385753777936562158"
+	},
+	{
+		"reserveUsd": 1591583.9815050764,
+		"amplifiedTvl": 1591583.9815050764,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675298975,
+		"reserves": [
+			"1291157849063580996076651",
+			"798485848946"
+		],
+		"tokens": [
+			{
+				"address": "0x97872eafd79940c7b24f7bcc1eadb1457347adc9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "918073935002819075"
+	},
+	{
+		"reserveUsd": 1587677.929573658,
+		"amplifiedTvl": 1587677.929573658,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308203,
+		"reserves": [
+			"473470737398978708358",
+			"32051612533160754995215"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc6dddb5bc6e61e0841c54f3e723ae1f3a807260b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3757608158042504688500"
+	},
+	{
+		"reserveUsd": 1627408.0863248967,
+		"amplifiedTvl": 1627408.0863248967,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308059,
+		"reserves": [
+			"45545038658710217640999606",
+			"137184335331234782772926"
+		],
+		"tokens": [
+			{
+				"address": "0x46e98ffe40e408ba6412beb670507e083c8b95ff",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x4d224452801aced8b2f0aebe155379bb5d594381",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2450397983824720232323272"
+	},
+	{
+		"reserveUsd": 8427072.484239258,
+		"amplifiedTvl": 8427072.484239258,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675296839,
+		"reserves": [
+			"2810653889348896935171120",
+			"3471576437499722585425"
+		],
+		"tokens": [
+			{
+				"address": "0xcc802c45b55581713cecd1eb17be9ab7fccb0844",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "98097093992807772039304"
+	},
+	{
+		"reserveUsd": 5920539.416485833,
+		"amplifiedTvl": 5920539.416485833,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308191,
+		"reserves": [
+			"1763531430004315716481",
+			"22426179486187944494398701"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "108359715771452422634091"
+	},
+	{
+		"reserveUsd": 1670554.2429080675,
+		"amplifiedTvl": 1670554.2429080675,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305635,
+		"reserves": [
+			"300541412312503644151777",
+			"497660309710841980236"
+		],
+		"tokens": [
+			{
+				"address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10860029278573428799986"
+	},
+	{
+		"reserveUsd": 2660207.3403754067,
+		"amplifiedTvl": 2660207.3403754067,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308107,
+		"reserves": [
+			"789380165445300264839",
+			"6210674080183434635753066"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xfb7b4564402e5500db5bb6d63ae671302777c75a",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "62138871331602109770662"
+	},
+	{
+		"reserveUsd": 1009157.9953211114,
+		"amplifiedTvl": 1009157.9953211114,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306499,
+		"reserves": [
+			"7431351502815735714661438",
+			"304464221408162242614"
+		],
+		"tokens": [
+			{
+				"address": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "28962267477466049160443"
+	},
+	{
+		"reserveUsd": 1210214.9921009694,
+		"amplifiedTvl": 1210214.9921009694,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675188551,
+		"reserves": [
+			"779306310557782524",
+			"1051224789956964176675864"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd42debe4edc92bd5a3fbb4243e1eccf6d63a4a5d",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "886499137965643382023"
+	},
+	{
+		"reserveUsd": 3920523.8274190426,
+		"amplifiedTvl": 3920523.8274190426,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308323,
+		"reserves": [
+			"1021445919131083721193",
+			"1955778000135"
+		],
+		"tokens": [
+			{
+				"address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "80010034012"
+	},
+	{
+		"reserveUsd": 8739652.02329291,
+		"amplifiedTvl": 8739652.02329291,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675305635,
+		"reserves": [
+			"470764716708538741323474",
+			"2602132247725251647963"
+		],
+		"tokens": [
+			{
+				"address": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "30824008436890011997163"
+	},
+	{
+		"reserveUsd": 1013606.4831613178,
+		"amplifiedTvl": 1013606.4831613178,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309199,
+		"reserves": [
+			"1568978955709761406554718",
+			"301364551931567589021"
+		],
+		"tokens": [
+			{
+				"address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "16481155084738635926744"
+	},
+	{
+		"reserveUsd": 8120860.101771991,
+		"amplifiedTvl": 8120860.101771991,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307663,
+		"reserves": [
+			"16105364743423953981203124",
+			"9768950420335537953705978"
+		],
+		"tokens": [
+			{
+				"address": "0x0fc6c0465c9739d4a42daca22eb3b2cb0eb9937a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "12485481589315888282490087"
+	},
+	{
+		"reserveUsd": 1270397.542347611,
+		"amplifiedTvl": 1270397.542347611,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675158755,
+		"reserves": [
+			"286064210292595848590337",
+			"390571524907494189584"
+		],
+		"tokens": [
+			{
+				"address": "0x9d409a0a012cfba9b15f6d4b36ac57a46966ab9a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10149013878567039674400"
+	},
+	{
+		"reserveUsd": 1415218.8851763476,
+		"amplifiedTvl": 1415218.8851763476,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675300943,
+		"reserves": [
+			"6440471952848159741934863",
+			"419231876579953663629"
+		],
+		"tokens": [
+			{
+				"address": "0x8f8221afbb33998d8584a2b05749ba73c37a938a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "32635094711255659043033"
+	},
+	{
+		"reserveUsd": 4696909.268424177,
+		"amplifiedTvl": 4696909.268424177,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674988235,
+		"reserves": [
+			"8936110934769460234072284677",
+			"618012160720371"
+		],
+		"tokens": [
+			{
+				"address": "0x73d9e335669462cbdd6aa3adafe9efee86a37fe9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x9c1cb740f3b631ed53600058ae5b2f83e15d9fbf",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "415167012982115397437"
+	},
+	{
+		"reserveUsd": 14121338.604794456,
+		"amplifiedTvl": 14121338.604794456,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308959,
+		"reserves": [
+			"18865852686233410292856283",
+			"4216001474943031086929"
+		],
+		"tokens": [
+			{
+				"address": "0x949d48eca67b17269629c7194f4b727d4ef9e5d6",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "244290576447529552233671"
+	},
+	{
+		"reserveUsd": 19795112.372318752,
+		"amplifiedTvl": 19795112.372318752,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675299323,
+		"reserves": [
+			"41285457938",
+			"5900929844188702190739"
+		],
+		"tokens": [
+			{
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "622660441466924"
+	},
+	{
+		"reserveUsd": 4239839.470900884,
+		"amplifiedTvl": 4239839.470900884,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307987,
+		"reserves": [
+			"46371384521029443443907096",
+			"2113007709278"
+		],
+		"tokens": [
+			{
+				"address": "0x823556202e86763853b40e9cde725f412e294689",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "9570591761278471095"
+	},
+	{
+		"reserveUsd": 1260793.3619727655,
+		"amplifiedTvl": 1260793.3619727655,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1646613528,
+		"reserves": [
+			"1856426951014190362",
+			"152889211619587815539"
+		],
+		"tokens": [
+			{
+				"address": "0x261efcdd24cea98652b9700800a13dfbca4103ff",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x5cf9242493be1411b93d064ca2e468961bbb5924",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "16337595302587522519"
+	},
+	{
+		"reserveUsd": 1024024.2524571634,
+		"amplifiedTvl": 1024024.2524571634,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1601196726,
+		"reserves": [
+			"596278866210570762416986",
+			"610821698245219603096"
+		],
+		"tokens": [
+			{
+				"address": "0x7afebbb46fdb47ed17b22ed075cde2447694fb9e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "17849938536313093704652"
+	},
+	{
+		"reserveUsd": 8833916.675132077,
+		"amplifiedTvl": 8833916.675132077,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675309523,
+		"reserves": [
+			"3031724397630712918716612",
+			"2626776158163970906556"
+		],
+		"tokens": [
+			{
+				"address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "73318126712781698631348"
+	},
+	{
+		"reserveUsd": 3210980.4089975776,
+		"amplifiedTvl": 3210980.4089975776,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309055,
+		"reserves": [
+			"1601156989821",
+			"375752864996905777700661"
+		],
+		"tokens": [
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "741367518941213432"
+	},
+	{
+		"reserveUsd": 3721751.459042758,
+		"amplifiedTvl": 3721751.459042758,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307999,
+		"reserves": [
+			"21590254085469998114808190972751",
+			"1112450331763967143683"
+		],
+		"tokens": [
+			{
+				"address": "0x6adb2e268de2aa1abf6578e4a8119b960e02928f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "138207476181452426952928246"
+	},
+	{
+		"reserveUsd": 1151297.5338146558,
+		"amplifiedTvl": 1151297.5338146558,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675299191,
+		"reserves": [
+			"342799590913595433226",
+			"134720631690593592744279"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "6422419131529381198760"
+	},
+	{
+		"reserveUsd": 5799790.347754882,
+		"amplifiedTvl": 5799790.347754882,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308287,
+		"reserves": [
+			"4852617073094294727147308",
+			"2893677780101"
+		],
+		"tokens": [
+			{
+				"address": "0x0000000000095413afc295d19edeb1ad7b71c952",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3360427473175764853"
+	},
+	{
+		"reserveUsd": 1279441.5127277318,
+		"amplifiedTvl": 1279441.5127277318,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306163,
+		"reserves": [
+			"950543598826689950132",
+			"381114612307023110253"
+		],
+		"tokens": [
+			{
+				"address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "440917772610511753329"
+	},
+	{
+		"reserveUsd": 1.8467457821683477e+21,
+		"amplifiedTvl": 1.8467457821683477e+21,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675217351,
+		"reserves": [
+			"336245149022141657",
+			"1105808659134737128"
+		],
+		"tokens": [
+			{
+				"address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "222605753555057607"
+	},
+	{
+		"reserveUsd": 20965071755.330116,
+		"amplifiedTvl": 20965071755.330116,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1657002290,
+		"reserves": [
+			"1800000322421649603123636021772",
+			"1335"
+		],
+		"tokens": [
+			{
+				"address": "0x888888877a18532b78d259577d00057054c50dd8",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "47060259603120841"
+	},
+	{
+		"reserveUsd": 35715985.983033106,
+		"amplifiedTvl": 35715985.983033106,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309523,
+		"reserves": [
+			"17837785862157758331257682",
+			"17842519815198"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "15833734701475915184"
+	},
+	{
+		"reserveUsd": 3942836.446332194,
+		"amplifiedTvl": 3942836.446332194,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309199,
+		"reserves": [
+			"179283422545632869982013",
+			"1176616983093146287830"
+		],
+		"tokens": [
+			{
+				"address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10547850580813894901488"
+	},
+	{
+		"reserveUsd": 9331490.624500196,
+		"amplifiedTvl": 9331490.624500196,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1672011443,
+		"reserves": [
+			"25875810326",
+			"90919286158904443014245030664"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc94f3e2ade5e92389af7e543657211ecccaff11e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "22360679774997896964"
+	},
+	{
+		"reserveUsd": 1458557.531256549,
+		"amplifiedTvl": 1458557.531256549,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675288955,
+		"reserves": [
+			"436410257875505712259",
+			"12627746"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc18c07a18198a6340cf4d94855fe5eb6dd33b46e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "73688533707762"
+	},
+	{
+		"reserveUsd": 8436687.507548127,
+		"amplifiedTvl": 8434502.426589975,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309139,
+		"reserves": [
+			"2521546538153276936058",
+			"84041575313560468533810205132408"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7829645336890273"
+	},
+	{
+		"reserveUsd": 1019288.2049879237,
+		"amplifiedTvl": 1019288.2049879237,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1655213519,
+		"reserves": [
+			"4313107617208377415",
+			"71186425368284631395132"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdfd5bb6ce8716822b2c9b255560194ca3509bebc",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "535093549880323978216"
+	},
+	{
+		"reserveUsd": 1464636.3780304035,
+		"amplifiedTvl": 1464636.3780304035,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675300691,
+		"reserves": [
+			"3229324265188689027337374664",
+			"730913442875"
+		],
+		"tokens": [
+			{
+				"address": "0x12bb890508c125661e03b09ec06e404bc9289040",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "45037312499416554389"
+	},
+	{
+		"reserveUsd": 441865646.08333844,
+		"amplifiedTvl": 441865646.08333844,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674717047,
+		"reserves": [
+			"11191855315120216048899805",
+			"3809836843830450"
+		],
+		"tokens": [
+			{
+				"address": "0x2d0e64b6bf13660a4c0de42a0b88144a7c10991f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "192355308288907410605"
+	},
+	{
+		"reserveUsd": 1338522.851840318,
+		"amplifiedTvl": 1338522.851840318,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304915,
+		"reserves": [
+			"4990191134220341726",
+			"410649587724032566409"
+		],
+		"tokens": [
+			{
+				"address": "0x7dac25b1a665e1c70f25f1fc37d88c99274984ed",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "44925638798183827000"
+	},
+	{
+		"reserveUsd": 1751017.7147643124,
+		"amplifiedTvl": 1751017.7147643124,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309043,
+		"reserves": [
+			"266650808776717991905343",
+			"522766922149920561412"
+		],
+		"tokens": [
+			{
+				"address": "0x71ab77b7dbb4fa7e017bc15090b2163221420282",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "9602255452402142511152"
+	},
+	{
+		"reserveUsd": 2145594.3727565613,
+		"amplifiedTvl": 2145594.3727565613,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309223,
+		"reserves": [
+			"31527341050981174363985707",
+			"1074755949404"
+		],
+		"tokens": [
+			{
+				"address": "0x98585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5609507560771106379"
+	},
+	{
+		"reserveUsd": 53111355158493910000,
+		"amplifiedTvl": 53111355158493910000,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1658929363,
+		"reserves": [
+			"11111394623003393",
+			"7393489662943758"
+		],
+		"tokens": [
+			{
+				"address": "0x06f65b8cfcb13a9fe37d836fe9708da38ecb29b2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "8954154727794695"
+	},
+	{
+		"reserveUsd": 645036012.0509658,
+		"amplifiedTvl": 645036012.0509658,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1623623838,
+		"reserves": [
+			"500027916318402026667515191810233",
+			"135403566668"
+		],
+		"tokens": [
+			{
+				"address": "0x7a58da7c0568557ec65cd53c0dbe5b134a022a14",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "8113501423353494931899"
+	},
+	{
+		"reserveUsd": 581392654.3971026,
+		"amplifiedTvl": 581392654.3971026,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1654991317,
+		"reserves": [
+			"3399904792020222",
+			"10000045655991662984465913201"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x970b596ea3cb9864397f799902f0a579cdc3377b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5635907579919823613331"
+	},
+	{
+		"reserveUsd": 2037379.8226266783,
+		"amplifiedTvl": 2037379.8226266783,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308275,
+		"reserves": [
+			"1017540674585",
+			"12358640522175373"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc5fb36dd2fb59d3b98deff88425a3f425ee469ed",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "51717329307320"
+	},
+	{
+		"reserveUsd": 1715846.9201754439,
+		"amplifiedTvl": 1715846.9201754439,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309379,
+		"reserves": [
+			"1039749548707633605627996",
+			"507489482003211113581"
+		],
+		"tokens": [
+			{
+				"address": "0x389999216860ab8e0175387a0c90e5c52522c945",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "11937872038686057481743"
+	},
+	{
+		"reserveUsd": 1418133.6946538007,
+		"amplifiedTvl": 1418133.6946538007,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307999,
+		"reserves": [
+			"147343612582720560933500",
+			"708702215915"
+		],
+		"tokens": [
+			{
+				"address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "239070705249419384"
+	},
+	{
+		"reserveUsd": 7498565.556862921,
+		"amplifiedTvl": 7498565.556862921,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675021367,
+		"reserves": [
+			"695445664572622278150989378",
+			"9416091082764328102"
+		],
+		"tokens": [
+			{
+				"address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "56976755248990642657705"
+	},
+	{
+		"reserveUsd": 2240409.033539784,
+		"amplifiedTvl": 2240409.033539784,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309403,
+		"reserves": [
+			"153121396378336596073007",
+			"667808199401337564107"
+		],
+		"tokens": [
+			{
+				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "6321284543228485259492"
+	},
+	{
+		"reserveUsd": 2347517.833180311,
+		"amplifiedTvl": 2347517.833180311,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675080683,
+		"reserves": [
+			"30494513371012024",
+			"23978405441959484"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "20532502471551907"
+	},
+	{
+		"reserveUsd": 1001715.0422515204,
+		"amplifiedTvl": 1001715.0422515204,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308491,
+		"reserves": [
+			"601044771464015069840743",
+			"501569161885"
+		],
+		"tokens": [
+			{
+				"address": "0x1bbf25e71ec48b84d773809b4ba55b6f4be946fb",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "437385605616993442"
+	},
+	{
+		"reserveUsd": 64909337.48070786,
+		"amplifiedTvl": 64909337.48070786,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309391,
+		"reserves": [
+			"427659976345825323553077",
+			"19295713865181282582824"
+		],
+		"tokens": [
+			{
+				"address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "86106453334931354814609"
+	},
+	{
+		"reserveUsd": 13098032.083688416,
+		"amplifiedTvl": 13098032.083688416,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309331,
+		"reserves": [
+			"4886550041711829030909241",
+			"3903605606719249739039"
+		],
+		"tokens": [
+			{
+				"address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "100718865243361162309917"
+	},
+	{
+		"reserveUsd": 8800391.10823951,
+		"amplifiedTvl": 8800391.10823951,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675297751,
+		"reserves": [
+			"41475664905122893451",
+			"2626665340733399463020"
+		],
+		"tokens": [
+			{
+				"address": "0x269616d549d7e8eaa82dfb17028d0b212d11232a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "314648120570951945713"
+	},
+	{
+		"reserveUsd": 3244400.1504152706,
+		"amplifiedTvl": 3244400.1504152706,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675301855,
+		"reserves": [
+			"3956077400157265093556",
+			"1118608867725492811250604"
+		],
+		"tokens": [
+			{
+				"address": "0x27c70cd1946795b66be9d954418546998b546634",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "62041999694794951523478"
+	},
+	{
+		"reserveUsd": 1867676.7332159053,
+		"amplifiedTvl": 1867676.7332159053,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308335,
+		"reserves": [
+			"557353108160601208247",
+			"55208175570031044149850"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3777632110316478294136"
+	},
+	{
+		"reserveUsd": 1090930.4108267254,
+		"amplifiedTvl": 1090930.4108267254,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674876659,
+		"reserves": [
+			"1513984473512066646265549",
+			"2448325732223124450"
+		],
+		"tokens": [
+			{
+				"address": "0x0ada190c81b814548ddc2f6adc4a689ce7c1fe73",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1650055993939688258462"
+	},
+	{
+		"reserveUsd": 7595175.213508431,
+		"amplifiedTvl": 7595175.213508431,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308275,
+		"reserves": [
+			"2267731340207365198796",
+			"178775255245636017527598"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "17468950138029818171115"
+	},
+	{
+		"reserveUsd": 1264625.0553353871,
+		"amplifiedTvl": 1264625.0553353871,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308395,
+		"reserves": [
+			"1793179699885608040110545",
+			"377848194259552279947"
+		],
+		"tokens": [
+			{
+				"address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "15047389863162303558043"
+	},
+	{
+		"reserveUsd": 13570526.714497961,
+		"amplifiedTvl": 13570526.714497961,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309307,
+		"reserves": [
+			"18113351172722610510712661738680",
+			"4050918162020836124153"
+		],
+		"tokens": [
+			{
+				"address": "0x761d38e5ddf6ccf6cf7c55759d5210750b5d60f3",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "141933628801789184487464707"
+	},
+	{
+		"reserveUsd": 4033960.500565402,
+		"amplifiedTvl": 4033960.500565402,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309307,
+		"reserves": [
+			"10478915221563337513794694",
+			"1201735514127987380646"
+		],
+		"tokens": [
+			{
+				"address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "56523296027950278288539"
+	},
+	{
+		"reserveUsd": 1368092.3702759943,
+		"amplifiedTvl": 1368092.3702759943,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309199,
+		"reserves": [
+			"3294348025892276793474985911260",
+			"412096045796982345990"
+		],
+		"tokens": [
+			{
+				"address": "0x3301ee63fb29f863f2333bd4466acb46cd8323e6",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "8945373048024208750039970"
+	},
+	{
+		"reserveUsd": 10052005.983554533,
+		"amplifiedTvl": 10052005.983554533,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"5020450787291",
+			"5021513232244"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "4013632640643"
+	},
+	{
+		"reserveUsd": 3204769.011715157,
+		"amplifiedTvl": 3204769.011715157,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308359,
+		"reserves": [
+			"5172414987078142590528190970070088",
+			"989448146401100832752"
+		],
+		"tokens": [
+			{
+				"address": "0x009668a9691e456972c8ec4cc84e99486308b84d",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2191467797206050950081381436"
+	},
+	{
+		"reserveUsd": 9873846.775022,
+		"amplifiedTvl": 9873846.775022,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309439,
+		"reserves": [
+			"4327351609504238970816785",
+			"2944465532457562416240"
+		],
+		"tokens": [
+			{
+				"address": "0x0f2d719407fdbeff09d87557abb7232601fd9f29",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "83094351188502444564286"
+	},
+	{
+		"reserveUsd": 7653220.323707273,
+		"amplifiedTvl": 7653220.323707273,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675302011,
+		"reserves": [
+			"2568184571930370493021679",
+			"3822802509022"
+		],
+		"tokens": [
+			{
+				"address": "0x131157c6760f78f7ddf877c0019eba175ba4b6f6",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3114760534865827863"
+	},
+	{
+		"reserveUsd": 4159280.6226793826,
+		"amplifiedTvl": 4159280.6226793826,
+		"swapFee": 0.003,
+		"exchange": "shibaswap",
+		"type": "uni",
+		"timestamp": 1675307351,
+		"reserves": [
+			"171633202382357552240558685735",
+			"1425207220430844267214693"
+		],
+		"tokens": [
+			{
+				"address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x9813037ee2218799597d83d4a5b6f3b6778218d9",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "266876828186872102052014157"
+	},
+	{
+		"reserveUsd": 2118394.456587831,
+		"amplifiedTvl": 2118394.456587831,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675084691,
+		"reserves": [
+			"478837000",
+			"21637867412197756"
+		],
+		"tokens": [
+			{
+				"address": "0xbf4a2ddaa16148a9d0fa2093ffac450adb7cd4aa",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd4ca5c2aff1eefb0bea9e9eab16f88db2990c183",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1940000000000"
+	},
+	{
+		"reserveUsd": 2496585.99625027,
+		"amplifiedTvl": 2497895.4107713066,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675301651,
+		"reserves": [
+			"190633065408610",
+			"749810188512886237866"
+		],
+		"tokens": [
+			{
+				"address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "357162882375783090"
+	},
+	{
+		"reserveUsd": 1192638.295996153,
+		"amplifiedTvl": 1192638.295996153,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675298711,
+		"reserves": [
+			"90862232490718",
+			"600600885871"
+		],
+		"tokens": [
+			{
+				"address": "0x8fc8f8269ebca376d046ce292dc7eac40c8d358a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7066628226366"
+	},
+	{
+		"reserveUsd": 3952605.891586605,
+		"amplifiedTvl": 3952605.891586605,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308419,
+		"reserves": [
+			"828041638469372054991468",
+			"1177227373973173127886"
+		],
+		"tokens": [
+			{
+				"address": "0xbbc2ae13b23d715c30720f079fcd9b4a74093505",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "17414583969090673581646"
+	},
+	{
+		"reserveUsd": 1090077.0118725018,
+		"amplifiedTvl": 1090077.0118725018,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674561851,
+		"reserves": [
+			"542040827016450658104359317",
+			"213794140514984666811"
+		],
+		"tokens": [
+			{
+				"address": "0x2129ff6000b95a973236020bcd2b2006b0d8e019",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "320097748041529527904958"
+	},
+	{
+		"reserveUsd": 2096340.7852754383,
+		"amplifiedTvl": 2096340.7852754383,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308083,
+		"reserves": [
+			"10414685376924782008558278",
+			"624099072764709002054"
+		],
+		"tokens": [
+			{
+				"address": "0xaaef88cea01475125522e117bfe45cf32044e238",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "79898888197581931726955"
+	},
+	{
+		"reserveUsd": 1029779.6202229578,
+		"amplifiedTvl": 1029779.6202229578,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309343,
+		"reserves": [
+			"26513454038059473173949060",
+			"306727948464382787847"
+		],
+		"tokens": [
+			{
+				"address": "0x12b6893ce26ea6341919fe289212ef77e51688c8",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "189072440"
+	},
+	{
+		"reserveUsd": 96335719.29352292,
+		"amplifiedTvl": 96335719.29352292,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"48106148940460",
+			"28714481482834697714259"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "553609876744235773"
+	},
+	{
+		"reserveUsd": 11326553.570120191,
+		"amplifiedTvl": 11326553.570120191,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1670777123,
+		"reserves": [
+			"242538620345186084770675990",
+			"2526038160386483925142"
+		],
+		"tokens": [
+			{
+				"address": "0x72e5390edb7727e3d4e3436451dadaff675dbcc0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x8d52061af43c52204c717d0610ea8f52f955ce0b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "782697354163016756589617"
+	},
+	{
+		"reserveUsd": 1993289.4292251924,
+		"amplifiedTvl": 1993289.4292251924,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308983,
+		"reserves": [
+			"136206195415542709860632",
+			"592924709812130418540"
+		],
+		"tokens": [
+			{
+				"address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "6503436333427815770434"
+	},
+	{
+		"reserveUsd": 7399255.138691703,
+		"amplifiedTvl": 7399255.138691703,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675151879,
+		"reserves": [
+			"3026441641482116272579598",
+			"2263350865835087657174"
+		],
+		"tokens": [
+			{
+				"address": "0x9ea3b5b4ec044b70375236a281986106457b20ef",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "82651469041187241427300"
+	},
+	{
+		"reserveUsd": 17273492.20272769,
+		"amplifiedTvl": 17273492.20272769,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309019,
+		"reserves": [
+			"785452699279471904635819",
+			"8649221564639089916482189"
+		],
+		"tokens": [
+			{
+				"address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x853d955acef822db058eb8505911ed77f175b99e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2063808842930338013654580"
+	},
+	{
+		"reserveUsd": 9874758.420926241,
+		"amplifiedTvl": 9874758.420926241,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675308095,
+		"reserves": [
+			"637930168315702329566",
+			"2940068264332059451240"
+		],
+		"tokens": [
+			{
+				"address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "715362934679778508281"
+	},
+	{
+		"reserveUsd": 7690508.354269849,
+		"amplifiedTvl": 7690508.354269849,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675307591,
+		"reserves": [
+			"3838606229122413688492745",
+			"2293312386494420440491"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "61544334370273125159475"
+	},
+	{
+		"reserveUsd": 1609797.3413367942,
+		"amplifiedTvl": 1609797.3413367942,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675302071,
+		"reserves": [
+			"447489057336958964661338",
+			"479345056843331482002"
+		],
+		"tokens": [
+			{
+				"address": "0x8798249c2e607446efb7ad49ec89dd1865ff4272",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "12657980383127319764261"
+	},
+	{
+		"reserveUsd": 1205378.7297880896,
+		"amplifiedTvl": 1205378.7297880896,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675302899,
+		"reserves": [
+			"598918336946",
+			"1696041034835980221606749"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xba8a621b4a54e61c442f5ec623687e2a942225ef",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "884963808071617178"
+	},
+	{
+		"reserveUsd": 8671072.535166183,
+		"amplifiedTvl": 8671072.535166183,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1649246720,
+		"reserves": [
+			"34265784528082570480316",
+			"6330728736030446924878"
+		],
+		"tokens": [
+			{
+				"address": "0x1df2099f6abbf0b05c12a61835137d84f10daa96",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "13305993346223301562799"
+	},
+	{
+		"reserveUsd": 19939960.09384097,
+		"amplifiedTvl": 19939960.09384097,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309367,
+		"reserves": [
+			"5946964532530260065139",
+			"9951299656825"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "148395483249774551"
+	},
+	{
+		"reserveUsd": 9323133.520974398,
+		"amplifiedTvl": 9323133.520974398,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309355,
+		"reserves": [
+			"19478025091",
+			"2774468600475078911934"
+		],
+		"tokens": [
+			{
+				"address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5937134565187401"
+	},
+	{
+		"reserveUsd": 4578135.437596519,
+		"amplifiedTvl": 4578135.437596519,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309139,
+		"reserves": [
+			"1364922312493731988204",
+			"87903421434554731803"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "308291158143138166579"
+	},
+	{
+		"reserveUsd": 1064048.5175233989,
+		"amplifiedTvl": 1064048.5175233989,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305971,
+		"reserves": [
+			"317117931903059167094",
+			"438525732211060504265"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "354195209089859092417"
+	},
+	{
+		"reserveUsd": 1608722.8953766131,
+		"amplifiedTvl": 1608722.8953766131,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675278095,
+		"reserves": [
+			"1627268758930669331090",
+			"483309967219522126812"
+		],
+		"tokens": [
+			{
+				"address": "0xadb2437e6f65682b85f814fbc12fec0508a7b1d0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "639882721031277682891"
+	},
+	{
+		"reserveUsd": 6740619.118678236,
+		"amplifiedTvl": 6740619.118678236,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308755,
+		"reserves": [
+			"4367938685363",
+			"2011407782141219294224"
+		],
+		"tokens": [
+			{
+				"address": "0x7a2bc711e19ba6aff6ce8246c546e8c4b4944dfd",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "87467100380118206"
+	},
+	{
+		"reserveUsd": 6826509.362456239,
+		"amplifiedTvl": 6826509.362456239,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675303475,
+		"reserves": [
+			"3409600550597456153667556",
+			"3410089122186"
+		],
+		"tokens": [
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2963842236767977561"
+	},
+	{
+		"reserveUsd": 4016155.40245952,
+		"amplifiedTvl": 4016155.40245952,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309247,
+		"reserves": [
+			"588897771562447953711146245505",
+			"1197763157963800294542"
+		],
+		"tokens": [
+			{
+				"address": "0x8e6cd950ad6ba651f6dd608dc70e5886b1aa6b24",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "12268101841441703450225979"
+	},
+	{
+		"reserveUsd": 1245747.205822052,
+		"amplifiedTvl": 1245747.205822052,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675298507,
+		"reserves": [
+			"6611914185",
+			"376082793352184576816"
+		],
+		"tokens": [
+			{
+				"address": "0x9355372396e3f6daf13359b7b607a3374cc638e0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "40933951778846"
+	},
+	{
+		"reserveUsd": 4.0268331487571795e+22,
+		"amplifiedTvl": 4.0268331487571795e+22,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674845339,
+		"reserves": [
+			"42496642961244660658299",
+			"3383904454096117161"
+		],
+		"tokens": [
+			{
+				"address": "0x4cde0dd772eafe365728e6434e55e2c975df5f0f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "317382386497573569880"
+	},
+	{
+		"reserveUsd": 1884824.8612481044,
+		"amplifiedTvl": 1884824.8612481044,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1672975355,
+		"reserves": [
+			"1370363330783938387017614",
+			"727469629537"
+		],
+		"tokens": [
+			{
+				"address": "0x7346ad4c8cd1886ff6d16072bcea5dfc0bc24ca2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "979558878185811705"
+	},
+	{
+		"reserveUsd": 30744548.202958412,
+		"amplifiedTvl": 30744548.202958412,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675292591,
+		"reserves": [
+			"11645623640604169141169390",
+			"60664360322092281"
+		],
+		"tokens": [
+			{
+				"address": "0x9d3ee6b64e69ebe12a4bf0b01d031cb80f556ee4",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "52462579457919874051292265"
+	},
+	{
+		"reserveUsd": 2420100.6218267716,
+		"amplifiedTvl": 2420100.6218267716,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675018007,
+		"reserves": [
+			"27698838018859278121213954",
+			"711528366985283926742"
+		],
+		"tokens": [
+			{
+				"address": "0xba21ef4c9f433ede00badefcc2754b8e74bd538a",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "136711460139914791764793"
+	},
+	{
+		"reserveUsd": 1530571.21364648,
+		"amplifiedTvl": 1530571.21364648,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675303991,
+		"reserves": [
+			"6150711298500699148747267",
+			"453683778756165690022"
+		],
+		"tokens": [
+			{
+				"address": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "52628923164322016765370"
+	},
+	{
+		"reserveUsd": 1805589.2488786662,
+		"amplifiedTvl": 1805589.2488786662,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308227,
+		"reserves": [
+			"953926813780017852352577300",
+			"540209579348547627235"
+		],
+		"tokens": [
+			{
+				"address": "0xb620be8a1949aa9532e6a3510132864ef9bc3f82",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "668193952424090931226252"
+	},
+	{
+		"reserveUsd": 1028290.4209198761,
+		"amplifiedTvl": 1028290.4209198761,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307327,
+		"reserves": [
+			"306330611913599390925",
+			"28841617076544190481742472"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xfa14fa6958401314851a17d6c5360ca29f74b57b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "60117773657195512614696"
+	},
+	{
+		"reserveUsd": 2349247.136393239,
+		"amplifiedTvl": 2349247.136393239,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675307723,
+		"reserves": [
+			"39789205837764980619811148773533",
+			"705474717496671752667"
+		],
+		"tokens": [
+			{
+				"address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "139608943731092414849647702"
+	},
+	{
+		"reserveUsd": 1130893.5037558437,
+		"amplifiedTvl": 1130893.5037558437,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675281839,
+		"reserves": [
+			"436060665149756449",
+			"116588518314407468676212978"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc3761eb917cd790b30dad99f6cc5b4ff93c4f9ea",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "2209053669171125941013"
+	},
+	{
+		"reserveUsd": 1714897.7725851298,
+		"amplifiedTvl": 1714897.7725851298,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675307579,
+		"reserves": [
+			"1039763298448243641611202508",
+			"508796219143205048295"
+		],
+		"tokens": [
+			{
+				"address": "0x090185f2135308bad17527004364ebcc2d37e5f6",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "434954110492844705447543"
+	},
+	{
+		"reserveUsd": 1233697.6413474628,
+		"amplifiedTvl": 1233697.6413474628,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308947,
+		"reserves": [
+			"1867383914060295",
+			"320556971230843828066"
+		],
+		"tokens": [
+			{
+				"address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x3819f64f282bf135d62168c1e513280daf905e06",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "643853680629149429"
+	},
+	{
+		"reserveUsd": 4549570.844786516,
+		"amplifiedTvl": 4549570.844786516,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675300979,
+		"reserves": [
+			"1364377981770678015948",
+			"57776460156769249999715907"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc770eefad204b5180df6a14ee197d99d808ee52d",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "245755258213824852659813"
+	},
+	{
+		"reserveUsd": 4427527.51471448,
+		"amplifiedTvl": 4427527.51471448,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674396791,
+		"reserves": [
+			"410641093542928910351743687",
+			"6833318605644547007956"
+		],
+		"tokens": [
+			{
+				"address": "0x1e18821e69b9faa8e6e75dffe54e7e25754beda0",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1526744818240392820934775"
+	},
+	{
+		"reserveUsd": 1949937.0820860523,
+		"amplifiedTvl": 1949937.0820860523,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1673924519,
+		"reserves": [
+			"2763274978358649985749474712999691",
+			"6968249307193698495"
+		],
+		"tokens": [
+			{
+				"address": "0x84fa8f52e437ac04107ec1768764b2b39287cb3e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "126665177982098100769463336"
+	},
+	{
+		"reserveUsd": 1300628.5754581806,
+		"amplifiedTvl": 1300628.5754581806,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675276043,
+		"reserves": [
+			"387978834891810509137",
+			"139586453011401269767017249364796"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xe1030b48b2033314979143766d7dc1f40ef8ce11",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "224682804286364347821844115"
+	},
+	{
+		"reserveUsd": 26113224.80117081,
+		"amplifiedTvl": 26113224.80117081,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675294043,
+		"reserves": [
+			"22549516933744955285077066115",
+			"10776750968836089889398"
+		],
+		"tokens": [
+			{
+				"address": "0x965d79f1a1016b574a62986e13ca8ab04dfdd15c",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xd075e95423c5c4ba1e122cae0f4cdfa19b82881b",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "15571622365874181138318979"
+	},
+	{
+		"reserveUsd": 2021641.6797015406,
+		"amplifiedTvl": 2021641.6797015406,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306043,
+		"reserves": [
+			"4151415264195768944117537",
+			"600061725572335414484"
+		],
+		"tokens": [
+			{
+				"address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "41739388941709690835486"
+	},
+	{
+		"reserveUsd": 2307122.1575479875,
+		"amplifiedTvl": 2307122.1575479875,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675266071,
+		"reserves": [
+			"26580247513122883834552",
+			"673489885155345103718"
+		],
+		"tokens": [
+			{
+				"address": "0x5befbb272290dd5b8521d4a938f6c4757742c430",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3569742775244006903005"
+	},
+	{
+		"reserveUsd": 3607675.1780596823,
+		"amplifiedTvl": 3607675.1780596823,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309187,
+		"reserves": [
+			"4061288930447334480207459",
+			"1080956925781044376253"
+		],
+		"tokens": [
+			{
+				"address": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "37485678180163603351853"
+	},
+	{
+		"reserveUsd": 218500949.27185524,
+		"amplifiedTvl": 218500949.27185524,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1593687352,
+		"reserves": [
+			"1",
+			"30186068226"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xed91879919b71bb6905f23af0a68d231ecf87b14",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1000"
+	},
+	{
+		"reserveUsd": 1407062.6682531163,
+		"amplifiedTvl": 1407062.6682531163,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675307327,
+		"reserves": [
+			"296542913116643324035076",
+			"419712127397521692313"
+		],
+		"tokens": [
+			{
+				"address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7043877002476586638594"
+	},
+	{
+		"reserveUsd": 5194703.732506463,
+		"amplifiedTvl": 5194703.732506463,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309355,
+		"reserves": [
+			"45097935930706048452799",
+			"1549909388105874353572"
+		],
+		"tokens": [
+			{
+				"address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "5613053033672915644538"
+	},
+	{
+		"reserveUsd": 3.4234203029462044e+22,
+		"amplifiedTvl": 3.4234203029462044e+22,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675224083,
+		"reserves": [
+			"6237419746937614862",
+			"10215195332681"
+		],
+		"tokens": [
+			{
+				"address": "0x08ad83d779bdf2bbe1ad9cc0f78aa0d24ab97802",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x7de91b204c1c737bcee6f000aaa6569cf7061cb7",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7109711242362909"
+	},
+	{
+		"reserveUsd": 1345270.2235059834,
+		"amplifiedTvl": 1345270.2235059834,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309199,
+		"reserves": [
+			"6839246534245997256",
+			"403432195345191743336"
+		],
+		"tokens": [
+			{
+				"address": "0x83249c6794bca5a77eb8c0af9f1a86e055459cea",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "47889811024893384945"
+	},
+	{
+		"reserveUsd": 8831369.57391262,
+		"amplifiedTvl": 8831369.57391262,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305455,
+		"reserves": [
+			"2299329811755802774077",
+			"2632330667556773670630"
+		],
+		"tokens": [
+			{
+				"address": "0x45804880de22913dafe09f4980848ece6ecbaf78",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1885687315568713296912"
+	},
+	{
+		"reserveUsd": 1111038.7314256914,
+		"amplifiedTvl": 1111038.7314256914,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675298615,
+		"reserves": [
+			"1163762848457524",
+			"662725089876759709853"
+		],
+		"tokens": [
+			{
+				"address": "0x4206931337dc273a630d328da6441786bfad668f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "768533748321656590"
+	},
+	{
+		"reserveUsd": 1027958.9886481427,
+		"amplifiedTvl": 1027958.9886481427,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675306007,
+		"reserves": [
+			"303856917902774493101",
+			"1247112763987855337893262"
+		],
+		"tokens": [
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xdc349913d53b446485e98b76800b6254f43df695",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10809688292471728910509"
+	},
+	{
+		"reserveUsd": 16316084.216860216,
+		"amplifiedTvl": 16316084.216860216,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1654991317,
+		"reserves": [
+			"404151877396851892993438859",
+			"68584166248612522"
+		],
+		"tokens": [
+			{
+				"address": "0x236ecfb32c2b496f942c86d43b8ca4f6bd931e30",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "7963101067301297178847"
+	},
+	{
+		"reserveUsd": 1044221.0804690223,
+		"amplifiedTvl": 1044221.0804690223,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1674757511,
+		"reserves": [
+			"1092748416590934748689",
+			"762383243143670265114"
+		],
+		"tokens": [
+			{
+				"address": "0x93747501f46ae40b8a4b8f1a1529696ae24ea04e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xcb5f72d37685c3d5ad0bb5f982443bc8fcdf570e",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "911000000000000001000"
+	},
+	{
+		"reserveUsd": 1123381.514102597,
+		"amplifiedTvl": 1123381.514102597,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675242071,
+		"reserves": [
+			"42541997675384530909228021413267",
+			"340200268613573837580"
+		],
+		"tokens": [
+			{
+				"address": "0xa1817b6d8d890f3943b61648992730373b71f156",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "104509578635247039069391967"
+	},
+	{
+		"reserveUsd": 1387620.506214137,
+		"amplifiedTvl": 1387620.506214137,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675287407,
+		"reserves": [
+			"11271804589413533359651245",
+			"417011720093809590316"
+		],
+		"tokens": [
+			{
+				"address": "0x1559fa1b8f28238fd5d76d9f434ad86fd20d1559",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "61646416895712899177459"
+	},
+	{
+		"reserveUsd": 1243352.8619565326,
+		"amplifiedTvl": 1243352.8619565326,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308611,
+		"reserves": [
+			"3389271713802398540995672",
+			"402487650500098794738"
+		],
+		"tokens": [
+			{
+				"address": "0x7121d00b4fa18f13da6c2e30d19c04844e6afdc8",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "36117109886355585197235"
+	},
+	{
+		"reserveUsd": 3202274.318957884,
+		"amplifiedTvl": 3202274.318957884,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304807,
+		"reserves": [
+			"150528501371096285737121",
+			"961059881456510159197"
+		],
+		"tokens": [
+			{
+				"address": "0x6243d8cea23066d098a15582d81a598b4e8391f4",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "10338780486822910368603"
+	},
+	{
+		"reserveUsd": 1499351.8094417937,
+		"amplifiedTvl": 1499351.8094417937,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675302575,
+		"reserves": [
+			"5849162568553921056919555",
+			"446568457009263129246"
+		],
+		"tokens": [
+			{
+				"address": "0x3d3d35bb9bec23b06ca00fe472b50e7a4c692c30",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "43431789961542648809021"
+	},
+	{
+		"reserveUsd": 1111421.3164251859,
+		"amplifiedTvl": 1111421.3164251859,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308023,
+		"reserves": [
+			"9170438032916489419687030",
+			"557070663392"
+		],
+		"tokens": [
+			{
+				"address": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "1510576082433630274"
+	},
+	{
+		"reserveUsd": 1707668.990771903,
+		"amplifiedTvl": 1707668.990771903,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675309247,
+		"reserves": [
+			"918136107898049662401623",
+			"523812317151153857680"
+		],
+		"tokens": [
+			{
+				"address": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "15527954100453341905160"
+	},
+	{
+		"reserveUsd": 1629301.292708838,
+		"amplifiedTvl": 1629301.292708838,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675304039,
+		"reserves": [
+			"13791591266675340257863446",
+			"491097983748143987137"
+		],
+		"tokens": [
+			{
+				"address": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "79458414980393182221935"
+	},
+	{
+		"reserveUsd": 1023011.2333762448,
+		"amplifiedTvl": 1023011.2333762448,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675189127,
+		"reserves": [
+			"108648886703553104351138898",
+			"310068305392726460098"
+		],
+		"tokens": [
+			{
+				"address": "0x9ed8e7c9604790f7ec589f99b94361d8aab64e5e",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "164793848785334455654589"
+	},
+	{
+		"reserveUsd": 1911479.669847439,
+		"amplifiedTvl": 1911479.669847439,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675275827,
+		"reserves": [
+			"11749856305405579547485916",
+			"671818626269724927146"
+		],
+		"tokens": [
+			{
+				"address": "0x35a532d376ffd9a705d0bb319532837337a398e7",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "84006272956835977006632"
+	},
+	{
+		"reserveUsd": 1454057.4578136536,
+		"amplifiedTvl": 1454057.4578136536,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675305287,
+		"reserves": [
+			"14066511418208218405163942",
+			"433544430416595382247"
+		],
+		"tokens": [
+			{
+				"address": "0x120a3879da835a5af037bb2d1456bebd6b54d4ba",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "72790322405689382860538"
+	},
+	{
+		"reserveUsd": 2515206.5687722536,
+		"amplifiedTvl": 2515206.5687722536,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1675308995,
+		"reserves": [
+			"4309413321545120992193686",
+			"748535372431224659272"
+		],
+		"tokens": [
+			{
+				"address": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "35128813320546401293862"
+	},
+	{
+		"reserveUsd": 31994106162260.19,
+		"amplifiedTvl": 31994106162260.188,
+		"swapFee": 0.003,
+		"exchange": "uniswap",
+		"type": "uni",
+		"timestamp": 1648853645,
+		"reserves": [
+			"3073046926603530189069230",
+			"3289100198255227"
+		],
+		"tokens": [
+			{
+				"address": "0xbbc3a290c7d2755b48681c87f25f9d7f480ad42f",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "3162277660168379"
+	},
+	{
+		"reserveUsd": 45420142.97462903,
+		"amplifiedTvl": 45420142.97462903,
+		"swapFee": 0.003,
+		"exchange": "sushiswap",
+		"type": "uni",
+		"timestamp": 1675309535,
+		"reserves": [
+			"22705698135547",
+			"13523489460917478381342"
+		],
+		"tokens": [
+			{
+				"address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+				"weight": 50,
+				"swappable": true
+			},
+			{
+				"address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+				"weight": 50,
+				"swappable": true
+			}
+		],
+		"totalSupply": "326150906006813614"
+	}
+]
