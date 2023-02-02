@@ -27,8 +27,11 @@ class Price:
             return self.price
 
 
-def load_prices(file_path):
-    with open(file_path) as r:
-        return Price.schema().loads(r.read(), many=True)
+def load_prices(*file_paths):
+    prices = []
+    for file_path in file_paths:
+        with open(file_path) as r:
+            prices.extend(Price.schema().loads(r.read(), many=True))
+    return prices
 
-# print(load_prices("./data/prices.json"))
+# print(len(load_prices("./data/prices.json")))

@@ -15,8 +15,11 @@ class Token:
     poolAddress: str
 
 
-def load_tokens(file_path):
-    with open(file_path) as r:
-        return Token.schema().loads(r.read(), many=True)
+def load_tokens(*file_paths):
+    tokens = []
+    for file_path in file_paths:
+        with open(file_path) as r:
+            tokens.extend(Token.schema().loads(r.read(), many=True))
+    return tokens
 
-# print(load_tokens("./data/tokens.json"))
+# print(len(load_tokens("./data/tokens.json")))

@@ -27,8 +27,11 @@ class Pool:
     tokens: List[PoolToken] = field(default_factory=list)
 
 
-def load_pools(file_path):
-    with open(file_path) as r:
-        return Pool.schema().loads(r.read(), many=True)
+def load_pools(*file_paths):
+    pools = []
+    for file_path in file_paths:
+        with open(file_path) as r:
+            pools.extend(Pool.schema().loads(r.read(), many=True))
+    return pools
 
-# print(load_pools("./data/uni.json"))
+# print(len(load_pools("./data/uni.json", "./data/balancer-weighted.json")))
