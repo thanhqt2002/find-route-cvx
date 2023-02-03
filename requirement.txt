@@ -2,3 +2,4 @@ dataclasses
 dataclasses-json
 cvxpy
 numpy
+scipy
