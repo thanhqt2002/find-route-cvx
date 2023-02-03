@@ -80,15 +80,9 @@ def main():
     for idx, pool in enumerate(pools):
         if pool.type == "uni":
             cons.append(cp.geo_mean(new_reserves[idx]) >= cp.geo_mean(reserves[idx]))
-            # print(reserves[idx])
-            # print(pool.tokens)
-            # break
         elif pool.type == "balancer-weighted":
             weights = np.array([token.weight for token in pool.tokens])
             normalized_weights = weights / weights.sum()
-
-            # print(normalized_weights)
-            # print(reserves[idx])
 
             def invariant(reserve):
                 return cp.geo_mean(reserve, p=normalized_weights)
